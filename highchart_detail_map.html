@@ -46,7 +46,7 @@
 
             // Load the drilldown map
             const topology = await fetch(
-                `https://raw.githubusercontent.com/sij919/sgis/highchart_detail_map/seoul_dong/${mapKey}.geojson`
+                `https://raw.githubusercontent.com/sij919/seoul_map/main/json/dong/${mapKey}.geojson`
             ).then(response => response.json());
 
             const data = Highcharts.geojson(topology);
@@ -81,7 +81,7 @@
     (async () => {
 
         const topology = await fetch(
-            'https://raw.githubusercontent.com/sij919/sgis/highchart_detail_map/seoul.geojson'
+            'https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul.geojson'
         ).then(response => response.json());
 
         const data = Highcharts.geojson(topology);
