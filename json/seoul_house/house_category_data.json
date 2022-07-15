@@ -6,260 +6,260 @@
             "adm_cd": "",
             "adm_nm": "전체",
             "total": 1544424,
-            "apartment": 1449248,
-            "mixed-use apartment": 70220,
+            "apt": 1449248,
+            "mix_apt": 70220,
             "vilia": 23650,
-            "multi-household house": 1306
+            "multi_house": 1306
         },
         {
             "year": "2020",
             "adm_cd": "11010",
             "adm_nm": "종로구",
             "total": 13862,
-            "apartment": 10605,
-            "mixed-use apartment": 1302,
+            "apt": 10605,
+            "mix_apt": 1302,
             "vilia": 1955,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11020",
             "adm_nm": "중구",
             "total": 17704,
-            "apartment": 12818,
-            "mixed-use apartment": 4886,
+            "apt": 12818,
+            "mix_apt": 4886,
             "vilia": "-",
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11030",
             "adm_nm": "용산구",
             "total": 33374,
-            "apartment": 27242,
-            "mixed-use apartment": 6132,
+            "apt": 27242,
+            "mix_apt": 6132,
             "vilia": "-",
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11040",
             "adm_nm": "성동구",
             "total": 57292,
-            "apartment": 55615,
-            "mixed-use apartment": 1067,
+            "apt": 55615,
+            "mix_apt": 1067,
             "vilia": 610,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11050",
             "adm_nm": "광진구",
             "total": 30030,
-            "apartment": 25065,
-            "mixed-use apartment": 4179,
+            "apt": 25065,
+            "mix_apt": 4179,
             "vilia": 786,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11060",
             "adm_nm": "동대문구",
             "total": 58031,
-            "apartment": 55600,
-            "mixed-use apartment": 1783,
+            "apt": 55600,
+            "mix_apt": 1783,
             "vilia": 648,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11070",
             "adm_nm": "중랑구",
             "total": 45920,
-            "apartment": 41828,
-            "mixed-use apartment": 2862,
+            "apt": 41828,
+            "mix_apt": 2862,
             "vilia": 1230,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11080",
             "adm_nm": "성북구",
             "total": 66572,
-            "apartment": 62978,
-            "mixed-use apartment": 2601,
+            "apt": 62978,
+            "mix_apt": 2601,
             "vilia": 993,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11090",
             "adm_nm": "강북구",
             "total": 27082,
-            "apartment": 25063,
-            "mixed-use apartment": 264,
+            "apt": 25063,
+            "mix_apt": 264,
             "vilia": 1486,
-            "multi-household house": 269
+            "multi_house": 269
         },
         {
             "year": "2020",
             "adm_cd": "11100",
             "adm_nm": "도봉구",
             "total": 64663,
-            "apartment": 61582,
-            "mixed-use apartment": 1545,
+            "apt": 61582,
+            "mix_apt": 1545,
             "vilia": 1536,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11110",
             "adm_nm": "노원구",
             "total": 138542,
-            "apartment": 137145,
-            "mixed-use apartment": 911,
+            "apt": 137145,
+            "mix_apt": 911,
             "vilia": 486,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11120",
             "adm_nm": "은평구",
             "total": 47382,
-            "apartment": 44578,
-            "mixed-use apartment": 1664,
+            "apt": 44578,
+            "mix_apt": 1664,
             "vilia": 1038,
-            "multi-household house": 102
+            "multi_house": 102
         },
         {
             "year": "2020",
             "adm_cd": "11130",
             "adm_nm": "서대문구",
             "total": 49240,
-            "apartment": 46728,
-            "mixed-use apartment": 737,
+            "apt": 46728,
+            "mix_apt": 737,
             "vilia": 1088,
-            "multi-household house": 687
+            "multi_house": 687
         },
         {
             "year": "2020",
             "adm_cd": "11140",
             "adm_nm": "마포구",
             "total": 64600,
-            "apartment": 57171,
-            "mixed-use apartment": 7269,
+            "apt": 57171,
+            "mix_apt": 7269,
             "vilia": 160,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11150",
             "adm_nm": "양천구",
             "total": 73647,
-            "apartment": 69942,
-            "mixed-use apartment": 3131,
+            "apt": 69942,
+            "mix_apt": 3131,
             "vilia": 531,
-            "multi-household house": 43
+            "multi_house": 43
         },
         {
             "year": "2020",
             "adm_cd": "11160",
             "adm_nm": "강서구",
             "total": 103492,
-            "apartment": 101813,
-            "mixed-use apartment": 225,
+            "apt": 101813,
+            "mix_apt": 225,
             "vilia": 1454,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11170",
             "adm_nm": "구로구",
             "total": 73659,
-            "apartment": 66580,
-            "mixed-use apartment": 2498,
+            "apt": 66580,
+            "mix_apt": 2498,
             "vilia": 4581,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11180",
             "adm_nm": "금천구",
             "total": 29877,
-            "apartment": 25785,
-            "mixed-use apartment": 2699,
+            "apt": 25785,
+            "mix_apt": 2699,
             "vilia": 1393,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11190",
             "adm_nm": "영등포구",
             "total": 57705,
-            "apartment": 54908,
-            "mixed-use apartment": 2797,
+            "apt": 54908,
+            "mix_apt": 2797,
             "vilia": "-",
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11200",
             "adm_nm": "동작구",
             "total": 57316,
-            "apartment": 54836,
-            "mixed-use apartment": 2047,
+            "apt": 54836,
+            "mix_apt": 2047,
             "vilia": 433,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11210",
             "adm_nm": "관악구",
             "total": 42408,
-            "apartment": 40839,
-            "mixed-use apartment": "-",
+            "apt": 40839,
+            "mix_apt": "-",
             "vilia": 1454,
-            "multi-household house": 115
+            "multi_house": 115
         },
         {
             "year": "2020",
             "adm_cd": "11220",
             "adm_nm": "서초구",
             "total": 82266,
-            "apartment": 76866,
-            "mixed-use apartment": 5310,
+            "apt": 76866,
+            "mix_apt": 5310,
             "vilia": "-",
-            "multi-household house": 90
+            "multi_house": 90
         },
         {
             "year": "2020",
             "adm_cd": "11230",
             "adm_nm": "강남구",
             "total": 114255,
-            "apartment": 106616,
-            "mixed-use apartment": 7023,
+            "apt": 106616,
+            "mix_apt": 7023,
             "vilia": 616,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11240",
             "adm_nm": "송파구",
             "total": 116400,
-            "apartment": 111602,
-            "mixed-use apartment": 4510,
+            "apt": 111602,
+            "mix_apt": 4510,
             "vilia": 288,
-            "multi-household house": "-"
+            "multi_house": "-"
         },
         {
             "year": "2020",
             "adm_cd": "11250",
             "adm_nm": "강동구",
             "total": 79105,
-            "apartment": 75443,
-            "mixed-use apartment": 2778,
+            "apt": 75443,
+            "mix_apt": 2778,
             "vilia": 884,
-            "multi-household house": "-"
+            "multi_house": "-"
         }
     ]
 }
