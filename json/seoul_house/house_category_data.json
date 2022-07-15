@@ -1,0 +1,239 @@
+{
+    "id": "API_HOUSE",
+    "result": [
+        {
+            "year": "2020",
+            "category": "합계",
+            "total": 1544424,
+            "apartment": 1449248,
+            "mixed-use apartment": 70220,
+            "vilia": 23650,
+            "multi-household house": 1306
+        },
+        {
+            "year": "2020",
+            "category": "종로구",
+            "total": 13862,
+            "apartment": 10605,
+            "mixed-use apartment": 1302,
+            "vilia": 1955,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "중구",
+            "total": 17704,
+            "apartment": 12818,
+            "mixed-use apartment": 4886,
+            "vilia": "-",
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "용산구",
+            "total": 33374,
+            "apartment": 27242,
+            "mixed-use apartment": 6132,
+            "vilia": "-",
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "성동구",
+            "total": 57292,
+            "apartment": 55615,
+            "mixed-use apartment": 1067,
+            "vilia": 610,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "광진구",
+            "total": 30030,
+            "apartment": 25065,
+            "mixed-use apartment": 4179,
+            "vilia": 786,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "동대문구",
+            "total": 58031,
+            "apartment": 55600,
+            "mixed-use apartment": 1783,
+            "vilia": 648,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "중랑구",
+            "total": 45920,
+            "apartment": 41828,
+            "mixed-use apartment": 2862,
+            "vilia": 1230,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "성북구",
+            "total": 66572,
+            "apartment": 62978,
+            "mixed-use apartment": 2601,
+            "vilia": 993,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "강북구",
+            "total": 27082,
+            "apartment": 25063,
+            "mixed-use apartment": 264,
+            "vilia": 1486,
+            "multi-household house": 269
+        },
+        {
+            "year": "2020",
+            "category": "도봉구",
+            "total": 64663,
+            "apartment": 61582,
+            "mixed-use apartment": 1545,
+            "vilia": 1536,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "노원구",
+            "total": 138542,
+            "apartment": 137145,
+            "mixed-use apartment": 911,
+            "vilia": 486,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "은평구",
+            "total": 47382,
+            "apartment": 44578,
+            "mixed-use apartment": 1664,
+            "vilia": 1038,
+            "multi-household house": 102
+        },
+        {
+            "year": "2020",
+            "category": "서대문구",
+            "total": 49240,
+            "apartment": 46728,
+            "mixed-use apartment": 737,
+            "vilia": 1088,
+            "multi-household house": 687
+        },
+        {
+            "year": "2020",
+            "category": "마포구",
+            "total": 64600,
+            "apartment": 57171,
+            "mixed-use apartment": 7269,
+            "vilia": 160,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "양천구",
+            "total": 73647,
+            "apartment": 69942,
+            "mixed-use apartment": 3131,
+            "vilia": 531,
+            "multi-household house": 43
+        },
+        {
+            "year": "2020",
+            "category": "강서구",
+            "total": 103492,
+            "apartment": 101813,
+            "mixed-use apartment": 225,
+            "vilia": 1454,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "구로구",
+            "total": 73659,
+            "apartment": 66580,
+            "mixed-use apartment": 2498,
+            "vilia": 4581,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "금천구",
+            "total": 29877,
+            "apartment": 25785,
+            "mixed-use apartment": 2699,
+            "vilia": 1393,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "영등포구",
+            "total": 57705,
+            "apartment": 54908,
+            "mixed-use apartment": 2797,
+            "vilia": "-",
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "동작구",
+            "total": 57316,
+            "apartment": 54836,
+            "mixed-use apartment": 2047,
+            "vilia": 433,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "관악구",
+            "total": 42408,
+            "apartment": 40839,
+            "mixed-use apartment": "-",
+            "vilia": 1454,
+            "multi-household house": 115
+        },
+        {
+            "year": "2020",
+            "category": "서초구",
+            "total": 82266,
+            "apartment": 76866,
+            "mixed-use apartment": 5310,
+            "vilia": "-",
+            "multi-household house": 90
+        },
+        {
+            "year": "2020",
+            "category": "강남구",
+            "total": 114255,
+            "apartment": 106616,
+            "mixed-use apartment": 7023,
+            "vilia": 616,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "송파구",
+            "total": 116400,
+            "apartment": 111602,
+            "mixed-use apartment": 4510,
+            "vilia": 288,
+            "multi-household house": "-"
+        },
+        {
+            "year": "2020",
+            "category": "강동구",
+            "total": 79105,
+            "apartment": 75443,
+            "mixed-use apartment": 2778,
+            "vilia": 884,
+            "multi-household house": "-"
+        }
+    ]
+}
