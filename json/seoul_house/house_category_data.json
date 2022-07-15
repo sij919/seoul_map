@@ -3,7 +3,8 @@
     "result": [
         {
             "year": "2020",
-            "category": "합계",
+            "adm_cd": "",
+            "adm_nm": "전체",
             "total": 1544424,
             "apartment": 1449248,
             "mixed-use apartment": 70220,
@@ -12,7 +13,8 @@
         },
         {
             "year": "2020",
-            "category": "종로구",
+            "adm_cd": "11010",
+            "adm_nm": "종로구",
             "total": 13862,
             "apartment": 10605,
             "mixed-use apartment": 1302,
@@ -21,7 +23,8 @@
         },
         {
             "year": "2020",
-            "category": "중구",
+            "adm_cd": "11020",
+            "adm_nm": "중구",
             "total": 17704,
             "apartment": 12818,
             "mixed-use apartment": 4886,
@@ -30,7 +33,8 @@
         },
         {
             "year": "2020",
-            "category": "용산구",
+            "adm_cd": "11030",
+            "adm_nm": "용산구",
             "total": 33374,
             "apartment": 27242,
             "mixed-use apartment": 6132,
@@ -39,7 +43,8 @@
         },
         {
             "year": "2020",
-            "category": "성동구",
+            "adm_cd": "11040",
+            "adm_nm": "성동구",
             "total": 57292,
             "apartment": 55615,
             "mixed-use apartment": 1067,
@@ -48,7 +53,8 @@
         },
         {
             "year": "2020",
-            "category": "광진구",
+            "adm_cd": "11050",
+            "adm_nm": "광진구",
             "total": 30030,
             "apartment": 25065,
             "mixed-use apartment": 4179,
@@ -57,7 +63,8 @@
         },
         {
             "year": "2020",
-            "category": "동대문구",
+            "adm_cd": "11060",
+            "adm_nm": "동대문구",
             "total": 58031,
             "apartment": 55600,
             "mixed-use apartment": 1783,
@@ -66,7 +73,8 @@
         },
         {
             "year": "2020",
-            "category": "중랑구",
+            "adm_cd": "11070",
+            "adm_nm": "중랑구",
             "total": 45920,
             "apartment": 41828,
             "mixed-use apartment": 2862,
@@ -75,7 +83,8 @@
         },
         {
             "year": "2020",
-            "category": "성북구",
+            "adm_cd": "11080",
+            "adm_nm": "성북구",
             "total": 66572,
             "apartment": 62978,
             "mixed-use apartment": 2601,
@@ -84,7 +93,8 @@
         },
         {
             "year": "2020",
-            "category": "강북구",
+            "adm_cd": "11090",
+            "adm_nm": "강북구",
             "total": 27082,
             "apartment": 25063,
             "mixed-use apartment": 264,
@@ -93,7 +103,8 @@
         },
         {
             "year": "2020",
-            "category": "도봉구",
+            "adm_cd": "11100",
+            "adm_nm": "도봉구",
             "total": 64663,
             "apartment": 61582,
             "mixed-use apartment": 1545,
@@ -102,7 +113,8 @@
         },
         {
             "year": "2020",
-            "category": "노원구",
+            "adm_cd": "11110",
+            "adm_nm": "노원구",
             "total": 138542,
             "apartment": 137145,
             "mixed-use apartment": 911,
@@ -111,7 +123,8 @@
         },
         {
             "year": "2020",
-            "category": "은평구",
+            "adm_cd": "11120",
+            "adm_nm": "은평구",
             "total": 47382,
             "apartment": 44578,
             "mixed-use apartment": 1664,
@@ -120,7 +133,8 @@
         },
         {
             "year": "2020",
-            "category": "서대문구",
+            "adm_cd": "11130",
+            "adm_nm": "서대문구",
             "total": 49240,
             "apartment": 46728,
             "mixed-use apartment": 737,
@@ -129,7 +143,8 @@
         },
         {
             "year": "2020",
-            "category": "마포구",
+            "adm_cd": "11140",
+            "adm_nm": "마포구",
             "total": 64600,
             "apartment": 57171,
             "mixed-use apartment": 7269,
@@ -138,7 +153,8 @@
         },
         {
             "year": "2020",
-            "category": "양천구",
+            "adm_cd": "11150",
+            "adm_nm": "양천구",
             "total": 73647,
             "apartment": 69942,
             "mixed-use apartment": 3131,
@@ -147,7 +163,8 @@
         },
         {
             "year": "2020",
-            "category": "강서구",
+            "adm_cd": "11160",
+            "adm_nm": "강서구",
             "total": 103492,
             "apartment": 101813,
             "mixed-use apartment": 225,
@@ -156,7 +173,8 @@
         },
         {
             "year": "2020",
-            "category": "구로구",
+            "adm_cd": "11170",
+            "adm_nm": "구로구",
             "total": 73659,
             "apartment": 66580,
             "mixed-use apartment": 2498,
@@ -165,7 +183,8 @@
         },
         {
             "year": "2020",
-            "category": "금천구",
+            "adm_cd": "11180",
+            "adm_nm": "금천구",
             "total": 29877,
             "apartment": 25785,
             "mixed-use apartment": 2699,
@@ -174,7 +193,8 @@
         },
         {
             "year": "2020",
-            "category": "영등포구",
+            "adm_cd": "11190",
+            "adm_nm": "영등포구",
             "total": 57705,
             "apartment": 54908,
             "mixed-use apartment": 2797,
@@ -183,7 +203,8 @@
         },
         {
             "year": "2020",
-            "category": "동작구",
+            "adm_cd": "11200",
+            "adm_nm": "동작구",
             "total": 57316,
             "apartment": 54836,
             "mixed-use apartment": 2047,
@@ -192,7 +213,8 @@
         },
         {
             "year": "2020",
-            "category": "관악구",
+            "adm_cd": "11210",
+            "adm_nm": "관악구",
             "total": 42408,
             "apartment": 40839,
             "mixed-use apartment": "-",
@@ -201,7 +223,8 @@
         },
         {
             "year": "2020",
-            "category": "서초구",
+            "adm_cd": "11220",
+            "adm_nm": "서초구",
             "total": 82266,
             "apartment": 76866,
             "mixed-use apartment": 5310,
@@ -210,7 +233,8 @@
         },
         {
             "year": "2020",
-            "category": "강남구",
+            "adm_cd": "11230",
+            "adm_nm": "강남구",
             "total": 114255,
             "apartment": 106616,
             "mixed-use apartment": 7023,
@@ -219,7 +243,8 @@
         },
         {
             "year": "2020",
-            "category": "송파구",
+            "adm_cd": "11240",
+            "adm_nm": "송파구",
             "total": 116400,
             "apartment": 111602,
             "mixed-use apartment": 4510,
@@ -228,7 +253,8 @@
         },
         {
             "year": "2020",
-            "category": "강동구",
+            "adm_cd": "11250",
+            "adm_nm": "강동구",
             "total": 79105,
             "apartment": 75443,
             "mixed-use apartment": 2778,
