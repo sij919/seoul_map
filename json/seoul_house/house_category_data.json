@@ -7,10 +7,10 @@
             "adm_nm": "종로구",
             "house_tot": 13862,
             "house_apt": 10605,
-            "house_mix": 13020,
+            "house_mix": 1302,
             "house_villa": 1955,
             "house_multi": 0,
-            "value": 1
+            "value": -1
         },
         {
             "year": "2020",
