@@ -9,7 +9,8 @@
             "house_apt": 10605,
             "house_mix": 1302,
             "house_villa": 1955,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -19,7 +20,8 @@
             "house_apt": 12818,
             "house_mix": 4886,
             "house_villa": 0,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -29,7 +31,8 @@
             "house_apt": 27242,
             "house_mix": 6132,
             "house_villa": 0,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -39,7 +42,8 @@
             "house_apt": 55615,
             "house_mix": 1067,
             "house_villa": 610,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -49,7 +53,8 @@
             "house_apt": 25065,
             "house_mix": 4179,
             "house_villa": 786,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -59,7 +64,8 @@
             "house_apt": 55600,
             "house_mix": 1783,
             "house_villa": 648,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -69,7 +75,8 @@
             "house_apt": 41828,
             "house_mix": 2862,
             "house_villa": 1230,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -79,7 +86,8 @@
             "house_apt": 62978,
             "house_mix": 2601,
             "house_villa": 993,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -89,7 +97,8 @@
             "house_apt": 25063,
             "house_mix": 264,
             "house_villa": 1486,
-            "house_multi": 269
+            "house_multi": 269,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -99,7 +108,8 @@
             "house_apt": 61582,
             "house_mix": 1545,
             "house_villa": 1536,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -109,7 +119,8 @@
             "house_apt": 137145,
             "house_mix": 911,
             "house_villa": 486,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -119,7 +130,8 @@
             "house_apt": 44578,
             "house_mix": 1664,
             "house_villa": 1038,
-            "house_multi": 102
+            "house_multi": 102,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -129,7 +141,8 @@
             "house_apt": 46728,
             "house_mix": 737,
             "house_villa": 1088,
-            "house_multi": 687
+            "house_multi": 687,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -139,7 +152,8 @@
             "house_apt": 57171,
             "house_mix": 7269,
             "house_villa": 160,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -149,7 +163,8 @@
             "house_apt": 69942,
             "house_mix": 3131,
             "house_villa": 531,
-            "house_multi": 43
+            "house_multi": 43,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -159,7 +174,8 @@
             "house_apt": 101813,
             "house_mix": 225,
             "house_villa": 1454,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -169,7 +185,8 @@
             "house_apt": 66580,
             "house_mix": 2498,
             "house_villa": 4581,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -179,7 +196,8 @@
             "house_apt": 25785,
             "house_mix": 2699,
             "house_villa": 1393,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -189,7 +207,8 @@
             "house_apt": 54908,
             "house_mix": 2797,
             "house_villa": 0,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -199,7 +218,8 @@
             "house_apt": 54836,
             "house_mix": 2047,
             "house_villa": 433,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -209,7 +229,8 @@
             "house_apt": 40839,
             "house_mix": 0,
             "house_villa": 1454,
-            "house_multi": 115
+            "house_multi": 115,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -219,7 +240,8 @@
             "house_apt": 76866,
             "house_mix": 5310,
             "house_villa": 0,
-            "house_multi": 90
+            "house_multi": 90,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -229,7 +251,8 @@
             "house_apt": 106616,
             "house_mix": 7023,
             "house_villa": 616,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -239,7 +262,8 @@
             "house_apt": 111602,
             "house_mix": 4510,
             "house_villa": 288,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         },
         {
             "year": "2020",
@@ -249,7 +273,8 @@
             "house_apt": 75443,
             "house_mix": 2778,
             "house_villa": 884,
-            "house_multi": 0
+            "house_multi": 0,
+            "house_max": -1
         }
     ]
 }
