@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>서울시 주택유형 현황</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            overflow-y: hidden;
+        }
+
+        #container {
+            width: 100%;
+            margin: 0 auto;
+            padding: 0;
+            overflow: visible;
+        }
+
+        #map {
+            width: 100%;
+            height: 95vh;
+            margin: 0;
+        }
+
+        @media screen and (max-width: 920px) {
+
+            #container,
+            #map {
+                float: none;
+                width: 100%;
+                height: auto;
+                margin: 0.5em 0;
+                padding: 0;
+                border: none;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+    <script src="https://code.highcharts.com/maps/modules/series-on-point.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="map"></div>
+    </div>
+</body>
+
+<script type="text/javascript">
+    (async () => {
+        const mapData = Highcharts.geojson(await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json()));
+        const houseData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_house/population.json').then(response => response.json());
+        let data = [];
+
+        mapData.forEach((d, i) => {
+            const adm_cd = d.properties['adm_cd'];
+            const arr = _.filter(houseData.result, { adm_cd: adm_cd });
+            const obj = arr[0];
+
+            d.name = d.properties.name;
+            d.houseApt = obj.house_apt;
+            d.houseMix = obj.house_mix;
+            d.houseVilla = obj.house_villa;
+            d.houseMulti = obj.house_multi;
+            d.houseTotal = obj.house_tot;
+
+            // 주택 유형 중 가장 많은 유형으로 지도 색상 변경
+            const max = Math.max(d.houseApt, d.houseMix, d.houseVilla, d.houseMulti);
+            if (max === d.houseApt) {
+                d.value = -1
+            } else if (max === d.houseMix) {
+                d.value = 1
+            } else if (max === d.houseVilla) {
+                d.value = 2
+            } else if (max === d.houseMulti) {
+                d.value = 3
+            }
+            data.push([d.name, d.houseApt, d.houseMix, d.houseVilla, d.houseMulti, d.houseTotal, d.value]);
+        });
+
+        aptColor = 'rgb(83, 191, 157)', mixColor = 'rgb(255, 107, 107)', villaColor = 'rgb(189, 66, 145)', multiColor = 'rgb(255, 197, 77)';
+
+        const maxValue = data.reduce((max, row) => Math.max(max, row[5]), 0);
+
+        // format : thousands separator
+        Highcharts.setOptions({
+            lang: {
+                thousandsSep: ','
+            }
+        });
+
+        const chart = Highcharts.mapChart('map', {
+            chart: {
+                style: {
+                    fontFamily: "'Noto Sans KR', sans-serif"
+                },
+                animation: false
+            },
+
+            colorAxis: {
+                dataClasses: [{
+                    from: -1,
+                    to: 0,
+                    name: '아파트',
+                    color: 'rgba(83, 191, 157, 0.5)'
+                }, {
+                    from: 0,
+                    to: 1,
+                    name: '주상복합',
+                    color: 'rgba(255, 107, 107, 0.5)'
+                }, {
+                    from: 2,
+                    to: 3,
+                    name: '연립',
+                    color: 'rgba(189, 66, 145, 0.5)'
+                }, {
+                    from: 3,
+                    to: 4,
+                    name: '다세대',
+                    color: 'rgba(255, 197, 77, 0.5)'
+                }]
+            },
+
+            mapNavigation: {
+                enabled: true
+            },
+
+            title: {
+                text: '서울시 주택유형 현황',
+                style: {
+                    fontSize: '2em'
+                }
+            },
+
+            plotOptions: {
+                pie: {
+                    borderColor: 'rgba(255,255,255,0.4)',
+                    borderWidth: 1,
+                    dataLabels: {
+                        enabled: false
+                    },
+                    states: {
+                        hover: {
+                            halo: {
+                                size: 5
+                            }
+                        }
+                    },
+                    tooltip: {
+                        headerFormat: ''
+                    }
+                }
+            },
+
+            credits: {
+                enabled: false
+            },
+
+            series: [{
+                mapData,
+                data: data,
+                name: '서울특별시',
+                accessibility: {
+                    point: {
+                        descriptionFormatter(point) {
+                            const party = point.value > 0 ? '주상복합' : '아파트';
+                            return point.name + ', ' + party + '. 전체: ' + point.houseTotal +
+                                '. 주상복합: ' + point.houseMix + '. 아파트: ' + point.houseApt +
+                                '. 연립: ' + point.houseVilla + '. 다세대: ' + point.houseMulti + '.';
+                        }
+                    }
+                },
+                borderColor: '#FFF',
+                joinBy: ['name', 'id'],
+                keys: ['id', 'houseMix', 'houseApt', 'houseVilla', 'houseMulti',
+                    'houseTotal', 'value'],
+                tooltip: {
+                    // headerFormat: '',
+                    backgroundColor: 'none',
+                    borderWidth: 0,
+                    shadow: false,
+                    useHTML: true,
+                    positioner: function () {
+                        return { x: 10, y: 100 };
+                    },
+                    pointFormatter() {
+                        const hoverHouse = this.hoverHouse; // Used by pie only
+                        return '<span class="f32"><b>' + this.id + ' 주택유형 현황</span></b><br/>' +
+                            [
+                                ['주상복합', this.houseMix, mixColor],
+                                ['아파트', this.houseApt, aptColor],
+                                ['연립', this.houseVilla, villaColor],
+                                ['다세대', this.houseMulti, multiColor]
+                            ]
+                                .sort((a, b) => b[1] - a[1]) // Sort tooltip by most votes
+                                .map(line => '<span style="color:' + line[2] +
+                                    // Colorized bullet
+                                    '">\u25CF</span> ' +
+                                    // Party and votes
+                                    (line[0] === hoverHouse ? '<b>' : '') +
+                                    line[0] + ': ' +
+                                    Highcharts.numberFormat(line[1], 0) +
+                                    (line[0] === hoverHouse ? '</b>' : '') +
+                                    '<br/>')
+                                .join('') +
+                            '<hr/>전체: ' + Highcharts.numberFormat(this.houseTotal, 0);
+                    }
+                }
+            }, {
+                name: 'Connectors',
+                type: 'mapline',
+                color: 'rgba(130, 130, 130, 0.5)',
+                zIndex: 5,
+                showInLegend: false,
+                enableMouseTracking: false,
+                accessibility: {
+                    enabled: false
+                }
+            }]
+        });
+
+        // When clicking legend items, also toggle connectors and pies
+        chart.legend.allItems.forEach(item => {
+            const setVisible = item.setVisible;
+
+            item.setVisible = function () {
+                const legendItem = this;
+
+                setVisible.call(legendItem);
+
+                chart.series[0].points.forEach(point => {
+                    if (
+                        chart.colorAxis[0].dataClasses[point.dataClass].name ===
+                        legendItem.name
+                    ) {
+                        // Find this state's pie and set visibility
+                        Highcharts.find(chart.series, function (item) {
+                            return item.name === point.id;
+                        }).setVisible(legendItem.visible, false);
+
+                        // Do the same for the connector point if it exists
+                        const connector = Highcharts.find(
+                            chart.series[2].points,
+                            item => item.name === point.id
+                        );
+
+                        if (connector) {
+                            connector.setVisible(legendItem.visible, false);
+                        }
+                    }
+                });
+                chart.redraw();
+            };
+        });
+
+        // Add the pies after chart load, optionally with offset and connectors
+        chart.series[0].points.forEach(state => {
+            // Add the pie for this state
+            chart.addSeries({
+                type: 'pie',
+                name: state.id,
+                zIndex: 6, // Keep pies above connector lines
+                minSize: 15,
+                maxSize: 55,
+                onPoint: {
+                    id: state.id,
+                    z: (() => {
+                        const mapView = chart.mapView,
+                            zoomFactor = mapView.zoom / mapView.minZoom;
+
+                        return Math.max(
+                            chart.chartWidth / 45 * zoomFactor, // Min size
+                            chart.chartWidth /
+                            11 * zoomFactor * state.houseTotal / maxValue
+                        );
+                    })()
+                },
+                states: {
+                    inactive: {
+                        enabled: false
+                    }
+                },
+                accessibility: {
+                    enabled: false
+                },
+                tooltip: {
+                    // Use the state tooltip for the pies as well
+                    pointFormatter() {
+                        return state.series.tooltipOptions.pointFormatter.call({
+                            id: state.id,
+                            hoverHouse: this.name,
+                            houseMix: state.houseMix,
+                            houseApt: state.houseApt,
+                            houseVilla: state.houseVilla,
+                            houseMulti: state.houseMulti,
+                            houseTotal: state.houseTotal
+                        });
+                    }
+                },
+                data: [{
+                    name: '주상복합',
+                    y: state.houseMix,
+                    color: mixColor
+                }, {
+                    name: '아파트',
+                    y: state.houseApt,
+                    color: aptColor
+                }, {
+                    name: '연립',
+                    y: state.houseVilla,
+                    color: villaColor
+                }, {
+                    name: '다세대',
+                    y: state.houseMulti,
+                    color: multiColor
+                }]
+            }, false);
+        });
+
+        // Only redraw once all pies and connectors have been added
+        chart.redraw();
+    })();
+</script>
+
+</html>
