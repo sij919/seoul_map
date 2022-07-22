@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>서울시 남녀성비 현황 - Pie Chart</title>
+    <title>서울시 남녀 성비 현황 - Pie Chart</title>
     <style>
         #container {
             width: 100%;
@@ -42,12 +42,12 @@
 <script type="text/javascript">
     (async () => {
         const mapData = Highcharts.geojson(await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json()));
-        const houseData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_house/population.json').then(response => response.json());
+        const seoulData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_house/population.json').then(response => response.json());
         let data = [];
 
         mapData.forEach((d, i) => {
             const adm_cd = d.properties['adm_cd'];
-            const arr = _.filter(houseData.result, { adm_cd: adm_cd });
+            const arr = _.filter(seoulData.result, { adm_cd: adm_cd });
             const obj = arr[0];
 
             d.name = d.properties.name;
@@ -57,12 +57,11 @@
             d.woman_per = obj.woman_per;
             d.total = d.man + d.woman;
 
-            // 주택 유형 중 가장 많은 유형으로 지도 색상 변경
+            // 성비 유형 중 가장 많은 유형으로 지도 색상 변경
             const max = Math.max(d.man, d.woman);
             d.value = max === d.man ? -1 : 1;
-            data.push([d.name, d.man, d.woman, d.man_per, d.woman_per, d.total, d.value, { lat: -2, lon: 2 }]);
+            data.push([d.name, d.man, d.woman, d.man_per, d.woman_per, d.total, d.value]);
         });
-        console.log(data);
         manColor = 'rgba(74, 131, 240, 0.80)', womanColor = 'rgba(220, 71, 71, 0.80)';
 
         const maxValue = data.reduce((max, row) => Math.max(max, row[5]), 0);
@@ -101,7 +100,7 @@
             },
 
             title: {
-                text: '서울시 남녀성비 현황',
+                text: '서울시 남녀 성비 현황',
                 style: {
                     fontSize: '2em'
                 }
@@ -151,23 +150,21 @@
                 tooltip: {
                     headerFormat: '',
                     pointFormatter() {
-                        const hoverSex = this.hoverSex; // Used by pie only
+                        const hoverGender = this.hoverGender; // Used by pie only
                         return '<b>' + this.id + ' 남녀성비 현황</b><br/>' +
                             [
-                                ['여성', this.woman, womanColor],
-                                ['남성', this.man, manColor],
-                                ['남성 인구 비율', this.man_per, manColor],
-                                ['여성 인구 비율', this.woman_per, womanColor]
+                                ['남성', this.man, this.man_per, manColor],
+                                ['여성', this.woman, this.woman_per, womanColor],
                             ]
                                 .sort((a, b) => b[1] - a[1]) // Sort tooltip by most votes
-                                .map(line => '<span class="f32"></span><span style="color:' + line[2] +
+                                .map(line => '<span style="color:' + line[3] +
                                     // Colorized bullet
                                     '">\u25CF</span> ' +
                                     // Party and votes
-                                    (line[0] === hoverSex ? '<b>' : '') +
+                                    (line[0] === hoverGender ? '<b>' : '') +
                                     line[0] + ': ' +
-                                    Highcharts.numberFormat(line[1], 0) +
-                                    (line[0] === hoverSex ? '</b>' : '') +
+                                    Highcharts.numberFormat(line[1], 0) + ' (' + line[2] + '%)' +
+                                    (line[0] === hoverGender ? '</b>' : '') +
                                     '<br/>')
                                 .join('') +
                             '<hr/>전체: ' + Highcharts.numberFormat(this.total, 0);
@@ -196,10 +193,7 @@
                 setVisible.call(legendItem);
 
                 chart.series[0].points.forEach(point => {
-                    if (
-                        chart.colorAxis[0].dataClasses[point.dataClass].name ===
-                        legendItem.name
-                    ) {
+                    if (chart.colorAxis[0].dataClasses[point.dataClass].name === legendItem.name) {
                         // Find this state's pie and set visibility
                         Highcharts.find(chart.series, function (item) {
                             return item.name === point.id;
@@ -237,8 +231,7 @@
 
                         return Math.max(
                             chart.chartWidth / 45 * zoomFactor, // Min size
-                            chart.chartWidth /
-                            11 * zoomFactor * state.total / maxValue
+                            chart.chartWidth / 11 * zoomFactor * state.total / maxValue
                         );
                     })()
                 },
@@ -255,7 +248,7 @@
                     pointFormatter() {
                         return state.series.tooltipOptions.pointFormatter.call({
                             id: state.id,
-                            hoverHouse: this.name,
+                            hoverGender: this.name,
                             woman: state.woman,
                             man: state.man,
                             man_per: state.man_per,
@@ -265,11 +258,11 @@
                     }
                 },
                 data: [{
-                    name: '여성 인구 수',
+                    name: '여성',
                     y: state.woman,
                     color: womanColor
                 }, {
-                    name: '남성 인구 수',
+                    name: '남성',
                     y: state.man,
                     color: manColor
                 }, {

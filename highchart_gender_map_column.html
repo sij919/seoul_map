@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>서울시 남녀성비 현황 - Column Chart</title>
+    <title>서울시 남녀 성비 현황 - Column Chart</title>
     <style>
         #container {
             width: 100%;
@@ -28,7 +28,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
     <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/maps/modules/map.js"></script>
     <script src="https://code.highcharts.com/maps/modules/series-on-point.js"></script>
@@ -37,7 +36,6 @@
     <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
     <script src="https://code.highcharts.com/maps/modules/data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
-
 </head>
 
 <body>
@@ -53,10 +51,8 @@
         }
     }, {
         drawPoints: function () {
-            // Proceed
             Highcharts.seriesTypes.column.prototype.drawPoints.call(this);
 
-            // Custom      
             var series = this,
                 points = series.points,
                 firstSeries = series.chart.series[0];
@@ -71,7 +67,6 @@
         }
     });
     (async () => {
-        // const mapData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json());
         const seoulData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_house/population.json').then(response => response.json());
         const mapData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json());
         const data = Highcharts.geojson(mapData);
@@ -89,14 +84,11 @@
             d.woman_per = obj.woman_per;
             d.total = d.man + d.woman;
 
-
             const max = Math.max(d.man, d.woman);
             d.value = max === d.man ? -1 : 1;
-            chartData.push([d.name, d.man, d.woman, d.man_per, d.woman_per, d.total, d.value, { lat: -2, lon: 2 }]);
+            chartData.push([d.name, d.man, d.woman, d.man_per, d.woman_per, d.total, d.value]);
         });
-        console.log(chartData);
-
-        manColor = 'rgba(220,71,71,0.80)', womanColor = 'rgba(74,131,240,0.80)';
+        const maxValue = 0, manColor = 'rgba(74,131,240,0.80)', womanColor = 'rgba(220,71,71,0.80)';
 
         // format : thousands separator
         Highcharts.setOptions({
@@ -104,9 +96,6 @@
                 thousandsSep: ','
             }
         });
-
-        // Compute max votes to find relative sizes of bubbles
-        const maxValue = data.reduce((max, row) => Math.max(max, row[5]), 0);
 
         // Build the chart
         const chart = Highcharts.mapChart('map', {
@@ -145,19 +134,19 @@
             },
 
             title: {
-                text: '서울시 남녀성비 현황',
+                text: '서울시 남녀 성비 현황',
                 style: {
                     fontSize: '2em'
                 }
             },
 
-            // Default options for the pies
+            // Default options for the columns
             plotOptions: {
-                pie: {
+                column: {
                     borderColor: 'rgba(255,255,255,0.4)',
                     borderWidth: 1,
                     dataLabels: {
-                        enabled: false
+                        enabled: true
                     },
                     states: {
                         hover: {
@@ -183,30 +172,29 @@
                 borderColor: '#FFF',
                 joinBy: ['name', 'id'],
                 keys: ['id', 'man', 'woman', 'man_per', 'woman_per',
-                    'total', 'value', 'offset'],
+                    'total', 'value'],
                 tooltip: {
                     headerFormat: '',
                     pointFormatter() {
-                        const hoverSex = this.hoverSex; // Used by pie only
-                        return '<b>' + this.id + ' 남녀성비 현황</b><br/>' +
+                        const hovergender = this.hovergender; // Used by column only
+                        return '<b>' + this.id + ' 남녀 성비 현황</b><br/>' +
                             [
-                                ['남성 인구 수', this.man, manColor],
-                                ['여성 인구 수', this.woman, womanColor],
-                                ['남성 인구 비율', this.man_per, manColor],
-                                ['여성 인구 비율', this.woman_per, womanColor]
+                                ['남성', this.man, this.man_per, manColor],
+                                ['여성', this.woman, this.woman_per, womanColor],
                             ]
                                 .sort((a, b) => b[1] - a[1]) // Sort tooltip by most votes
-                                .map(line => '<span style="color:' + line[2] +
+                                .map(line => '<span style="color:' + line[3] +
                                     // Colorized bullet
                                     '">\u25CF</span> ' +
                                     // Party and votes
-                                    (line[0] === hoverSex ? '<b>' : '') +
+                                    (line[0] === hovergender ? '<b>' : '') +
                                     line[0] + ': ' +
-                                    Highcharts.numberFormat(line[1], 0) +
-                                    (line[0] === hoverSex ? '</b>' : '') +
+                                    Highcharts.numberFormat(line[1], 0) + ' (' + line[2] + '%)' +
+                                    (line[0] === hovergender ? '</b>' : '') +
                                     '<br/>')
                                 .join('') +
                             '<hr/>전체: ' + Highcharts.numberFormat(this.total, 0);
+
                     }
                 }
             }, {
@@ -229,7 +217,7 @@
             }]
         });
 
-        // When clicking legend items, also toggle connectors and pies
+        // When clicking legend items, also toggle connectors and columns
         chart.legend.allItems.forEach(item => {
             const setVisible = item.setVisible;
 
@@ -243,7 +231,7 @@
                         chart.colorAxis[0].dataClasses[point.dataClass].name ===
                         legendItem.name
                     ) {
-                        // Find this state's pie and set visibility
+                        // Find this state's column and set visibility
                         Highcharts.find(chart.series, function (item) {
                             return item.name === point.id;
                         }).setVisible(legendItem.visible, false);
@@ -263,20 +251,20 @@
             };
         });
 
-        // Add the pies after chart load, optionally with offset and connectors
+        // Add the columns after chart load, optionally with offset and connectors
         chart.series[0].points.forEach(state => {
-            // Add the pie for this state
+            // Add the column for this state
             chart.addSeries({
                 type: 'mapcolumn',
                 name: state.id,
-                zIndex: 6, // Keep pies above connector lines
+                zIndex: 6, // Keep columns above connector lines
                 sizeFormatter: function () {
                     var yAxis = this.chart.yAxis[0],
                         zoomFactor = (yAxis.dataMax - yAxis.dataMin) /
                             (yAxis.max - yAxis.min);
                     return Math.max(
                         this.chart.chartWidth / 45 * zoomFactor, // Min size
-                        this.chart.chartWidth / 11 * zoomFactor * state.sumVotes / maxValue
+                        this.chart.chartWidth / 11 * zoomFactor * state.total / maxValue
                     );
                 },
                 states: {
@@ -288,11 +276,11 @@
                     enabled: false
                 },
                 tooltip: {
-                    // Use the state tooltip for the pies as well
+                    // Use the state tooltip for the columns as well
                     pointFormatter() {
                         return state.series.tooltipOptions.pointFormatter.call({
                             id: state.id,
-                            hoverSex: this.name,
+                            hovergender: this.name,
                             man: state.man,
                             woman: state.woman,
                             man_per: state.man_per,
@@ -310,13 +298,13 @@
                 }, {
                     name: '여성',
                     x: 1000,
-                    y: -500,
+                    y: -1000,
                     color: womanColor
                 }]
             }, false);
         });
 
-        // Only redraw once all pies and connectors have been added
+        // Only redraw once all columns and connectors have been added
         chart.redraw();
     })();
 </script>
