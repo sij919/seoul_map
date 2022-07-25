@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highcharts - Map Bubble</title>
+
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+    <style>
+        #container {
+            width: 100%;
+            height: 90vh;
+            margin: 0 auto;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+</body>
+
+<script type="text/javascript">
+    (async () => {
+        const map = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json());
+        const popData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/population/population.json').then(response => response.json());
+        const mapData = Highcharts.geojson(map);
+        let obj = new Object();
+        let data = [];
+
+        mapData.forEach((d, i) => {
+            const arr = _.filter(popData.result, { adm_cd: d.properties['adm_cd'] })[0];
+            data.push({
+                code: arr.adm_cd,
+                name: arr.adm_nm,
+                z: arr.population_cnt
+            });
+        });
+
+        // format : thousands separator
+        Highcharts.setOptions({
+            lang: {
+                thousandsSep: ','
+            }
+        });
+
+        Highcharts.mapChart('container', {
+            chart: {
+                borderWidth: 1,
+                map
+            },
+
+            title: {
+                text: '서울시 인구 현황'
+            },
+
+            legend: {
+                enabled: false
+            },
+
+            mapNavigation: {
+                enabled: true,
+                buttonOptions: {
+                    verticalAlign: 'bottom'
+                }
+            },
+
+            series: [{
+                name: '구',
+                color: '#E0E0E0',
+                enableMouseTracking: false
+            }, {
+                type: 'mapbubble',
+                name: '서울시 인구',
+                joinBy: ['adm_cd', 'code'],
+                data,
+                dataLabels: {
+                    enabled: true,
+                    format: '{point.properties.name}',
+                },
+                minSize: 4,
+                maxSize: '12%',
+                tooltip: {
+                    pointFormat: '{point.properties.name}: {point.z}명'
+                }
+            }]
+        });
+    })();
+</script>
+
+</html>
