@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highcharts - Map Cluster</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.6/proj4.js"></script>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/marker-clusters.js"></script>
+    <script src="https://code.highcharts.com/modules/coloraxis.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+    <style>
+        #container {
+            width: 100%;
+            height: 90vh;
+            margin: 0 auto;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+</body>
+
+<script type="text/javascript">
+
+    (async () => {
+        const map = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json());
+        const guData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_gps.json').then(response => response.json());
+        const dongData = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_center.json').then(response => response.json());
+        let gu_data = [];
+        let dong_data = [];
+
+        guData.forEach((d, i) => {
+            gu_data.push({
+                name: d.gu,
+                lat: d.lat,
+                lon: d.lon
+            })
+        })
+
+        dongData.forEach((d, i) => {
+            dong_data.push({
+                name: d.dong,
+                lat: d.lat,
+                lon: d.lng
+            })
+        })
+
+        Highcharts.mapChart('container', {
+            chart: {
+                map
+            },
+            title: {
+                text: '서울시 행정구역'
+            },
+            mapNavigation: {
+                enabled: true
+            },
+            tooltip: {
+                headerFormat: '',
+                pointFormat: '<b>{point.name}</b><br>Lat: {point.lat:.2f}, Lon: {point.lon:.2f}'
+            },
+            colorAxis: {
+                min: 0,
+                max: 20
+            },
+            plotOptions: {
+                mappoint: {
+                    cluster: {
+                        enabled: true,
+                        allowOverlap: false,
+                        animation: {
+                            duration: 450
+                        },
+                        layoutAlgorithm: {
+                            type: 'grid',
+                            gridSize: 70
+                        },
+                        zones: [{
+                            from: 1,
+                            to: 4,
+                            marker: {
+                                radius: 13
+                            }
+                        }, {
+                            from: 5,
+                            to: 9,
+                            marker: {
+                                radius: 15
+                            }
+                        }, {
+                            from: 10,
+                            to: 15,
+                            marker: {
+                                radius: 17
+                            }
+                        }, {
+                            from: 16,
+                            to: 20,
+                            marker: {
+                                radius: 19
+                            }
+                        }, {
+                            from: 21,
+                            to: 100,
+                            marker: {
+                                radius: 21
+                            }
+                        }]
+                    }
+                }
+            },
+            series: [{
+                name: 'Seoul',
+                accessibility: {
+                    exposeAsGroupOnly: true
+                },
+                borderColor: '#A0A0A0',
+                nullColor: 'rgba(177, 244, 177, 0.5)',
+                showInLegend: false
+            }, {
+                type: 'mappoint',
+                enableMouseTracking: true,
+                accessibility: {
+                    point: {
+                        descriptionFormatter: function (point) {
+                            if (point.isCluster) {
+                                return 'Grouping of ' + point.clusterPointsAmount + ' points.';
+                            }
+                            return point.name + ', country code: ' + point.country + '.';
+                        }
+                    }
+                },
+                colorKey: 'clusterPointsAmount',
+                name: 'Cities',
+                data: dong_data
+            }]
+        });
+    })();
+</script>
+
+</html>

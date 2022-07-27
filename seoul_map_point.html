@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highcharts - Map Point</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.6/proj4.js"></script>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/stock/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/marker-clusters.js"></script>
+    <script src="https://code.highcharts.com/modules/coloraxis.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+    <style>
+        #container {
+            width: 100%;
+            height: 90vh;
+            margin: 0 auto;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+</body>
+
+<script type="text/javascript">
+    (async () => {
+
+        const map = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_map/seoul.geojson').then(response => response.json());
+        const point = await fetch('https://raw.githubusercontent.com/sij919/seoul_map/main/json/seoul_center.json').then(response => response.json());
+        let data = [];
+
+        point.forEach((d, i) => {
+            data.push({
+                name: d.dong,
+                lat: d.lat,
+                lon: d.lng
+            })
+        })
+
+        // Initialize the chart
+        Highcharts.mapChart('container', {
+
+            chart: {
+                map
+            },
+
+            title: {
+                text: '서울시 행정동'
+            },
+
+            accessibility: {
+                description: 'Map where city locations have been defined using latitude/longitude.'
+            },
+
+            mapNavigation: {
+                enabled: true
+            },
+
+            tooltip: {
+                headerFormat: '',
+                pointFormat: '<b>{point.name}</b><br>Lat: {point.lat}, Lon: {point.lon}'
+            },
+
+            series: [{
+                // Use the gb-all map with no data as a basemap
+                name: 'Seoul',
+                borderColor: '#A0A0A0',
+                nullColor: 'rgba(177, 244, 177, 0.5)',
+                showInLegend: false
+            }, {
+                name: 'Separators',
+                type: 'mapline',
+                nullColor: '#707070',
+                showInLegend: false,
+                enableMouseTracking: false,
+                accessibility: {
+                    enabled: false
+                }
+            }, {
+                // Specify points using lat/lon
+                type: 'mappoint',
+                name: '행정동',
+                accessibility: {
+                    point: {
+                        valueDescriptionFormat: '{xDescription}. Lat: {point.lat:.2f}, lon: {point.lon:.2f}.'
+                    }
+                },
+                color: Highcharts.getOptions().colors[1],
+                data,
+            }]
+        });
+
+    })();
+</script>
+
+</html>
