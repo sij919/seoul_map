@@ -7,7 +7,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 136
         },
         {
@@ -16,7 +16,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 120
         },
         {
@@ -25,7 +25,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 256
         },
         {
@@ -34,7 +34,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 205
         },
         {
@@ -43,7 +43,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 209
         },
         {
@@ -52,7 +52,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 414
         },
         {
@@ -61,7 +61,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 325
         },
         {
@@ -70,7 +70,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 248
         },
         {
@@ -79,7 +79,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 573
         },
         {
@@ -88,7 +88,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 334
         },
         {
@@ -97,7 +97,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 354
         },
         {
@@ -106,7 +106,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 688
         },
         {
@@ -115,7 +115,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 598
         },
         {
@@ -124,7 +124,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 984
         },
         {
@@ -133,7 +133,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1582
         },
         {
@@ -142,7 +142,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 954
         },
         {
@@ -151,7 +151,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1053
         },
         {
@@ -160,7 +160,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 2007
         },
         {
@@ -169,7 +169,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 788
         },
         {
@@ -178,7 +178,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 764
         },
         {
@@ -187,7 +187,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1552
         },
         {
@@ -196,7 +196,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 682
         },
         {
@@ -205,7 +205,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 567
         },
         {
@@ -214,7 +214,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1249
         },
         {
@@ -223,7 +223,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 718
         },
         {
@@ -232,7 +232,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 630
         },
         {
@@ -241,7 +241,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1348
         },
         {
@@ -250,7 +250,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 765
         },
         {
@@ -259,7 +259,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 731
         },
         {
@@ -268,7 +268,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1496
         },
         {
@@ -277,7 +277,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 895
         },
         {
@@ -286,7 +286,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 938
         },
         {
@@ -295,7 +295,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1833
         },
         {
@@ -304,7 +304,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 881
         },
         {
@@ -313,7 +313,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 948
         },
         {
@@ -322,7 +322,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1829
         },
         {
@@ -331,7 +331,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 971
         },
         {
@@ -340,7 +340,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1015
         },
         {
@@ -349,7 +349,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1986
         },
         {
@@ -358,7 +358,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 712
         },
         {
@@ -367,7 +367,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 758
         },
         {
@@ -376,7 +376,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1470
         },
         {
@@ -385,7 +385,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 513
         },
         {
@@ -394,7 +394,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 642
         },
         {
@@ -403,7 +403,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1155
         },
         {
@@ -412,7 +412,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 367
         },
         {
@@ -421,7 +421,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 509
         },
         {
@@ -430,7 +430,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 876
         },
         {
@@ -439,7 +439,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 289
         },
         {
@@ -448,7 +448,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 385
         },
         {
@@ -457,7 +457,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 674
         },
         {
@@ -466,7 +466,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 100
         },
         {
@@ -475,7 +475,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 181
         },
         {
@@ -484,7 +484,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 281
         },
         {
@@ -493,7 +493,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 23
         },
         {
@@ -502,7 +502,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 63
         },
         {
@@ -511,7 +511,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 86
         },
         {
@@ -520,7 +520,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 3
         },
         {
@@ -529,7 +529,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 12
         },
         {
@@ -538,7 +538,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 15
         },
         {
@@ -601,7 +601,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 145
         },
         {
@@ -610,7 +610,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 127
         },
         {
@@ -619,7 +619,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 272
         },
         {
@@ -628,7 +628,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 172
         },
         {
@@ -637,7 +637,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 144
         },
         {
@@ -646,7 +646,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 316
         },
         {
@@ -655,7 +655,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 208
         },
         {
@@ -664,7 +664,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 216
         },
         {
@@ -673,7 +673,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 424
         },
         {
@@ -682,7 +682,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 295
         },
         {
@@ -691,7 +691,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 281
         },
         {
@@ -700,7 +700,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 576
         },
         {
@@ -709,7 +709,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 565
         },
         {
@@ -718,7 +718,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 698
         },
         {
@@ -727,7 +727,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1263
         },
         {
@@ -736,7 +736,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 951
         },
         {
@@ -745,7 +745,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 914
         },
         {
@@ -754,7 +754,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1865
         },
         {
@@ -763,7 +763,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 776
         },
         {
@@ -772,7 +772,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 661
         },
         {
@@ -781,7 +781,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1437
         },
         {
@@ -790,7 +790,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 650
         },
         {
@@ -799,7 +799,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 563
         },
         {
@@ -808,7 +808,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1213
         },
         {
@@ -817,7 +817,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 713
         },
         {
@@ -826,7 +826,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 597
         },
         {
@@ -835,7 +835,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1310
         },
         {
@@ -844,7 +844,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 745
         },
         {
@@ -853,7 +853,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 655
         },
         {
@@ -862,7 +862,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1400
         },
         {
@@ -871,7 +871,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 822
         },
         {
@@ -880,7 +880,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 731
         },
         {
@@ -889,7 +889,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1553
         },
         {
@@ -898,7 +898,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 782
         },
         {
@@ -907,7 +907,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 715
         },
         {
@@ -916,7 +916,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1497
         },
         {
@@ -925,7 +925,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 741
         },
         {
@@ -934,7 +934,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 774
         },
         {
@@ -943,7 +943,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1515
         },
         {
@@ -952,7 +952,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 560
         },
         {
@@ -961,7 +961,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 648
         },
         {
@@ -970,7 +970,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1208
         },
         {
@@ -979,7 +979,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 450
         },
         {
@@ -988,7 +988,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 506
         },
         {
@@ -997,7 +997,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 956
         },
         {
@@ -1006,7 +1006,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 324
         },
         {
@@ -1015,7 +1015,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 425
         },
         {
@@ -1024,7 +1024,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 749
         },
         {
@@ -1033,7 +1033,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 222
         },
         {
@@ -1042,7 +1042,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 282
         },
         {
@@ -1051,7 +1051,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 504
         },
         {
@@ -1060,7 +1060,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 92
         },
         {
@@ -1069,7 +1069,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 140
         },
         {
@@ -1078,7 +1078,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 232
         },
         {
@@ -1087,7 +1087,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 20
         },
         {
@@ -1096,7 +1096,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 48
         },
         {
@@ -1105,7 +1105,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 68
         },
         {
@@ -1114,7 +1114,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 8
         },
         {
@@ -1123,7 +1123,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 10
         },
         {
@@ -1132,7 +1132,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130559500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 18
         },
         {
@@ -1195,7 +1195,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 113
         },
         {
@@ -1204,7 +1204,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 107
         },
         {
@@ -1213,7 +1213,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 220
         },
         {
@@ -1222,7 +1222,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 183
         },
         {
@@ -1231,7 +1231,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 153
         },
         {
@@ -1240,7 +1240,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 336
         },
         {
@@ -1249,7 +1249,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 228
         },
         {
@@ -1258,7 +1258,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 190
         },
         {
@@ -1267,7 +1267,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 418
         },
         {
@@ -1276,7 +1276,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 267
         },
         {
@@ -1285,7 +1285,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 256
         },
         {
@@ -1294,7 +1294,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 523
         },
         {
@@ -1303,7 +1303,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 501
         },
         {
@@ -1312,7 +1312,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 454
         },
         {
@@ -1321,7 +1321,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 955
         },
         {
@@ -1330,7 +1330,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 610
         },
         {
@@ -1339,7 +1339,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 571
         },
         {
@@ -1348,7 +1348,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1181
         },
         {
@@ -1357,7 +1357,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 422
         },
         {
@@ -1366,7 +1366,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 393
         },
         {
@@ -1375,7 +1375,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 815
         },
         {
@@ -1384,7 +1384,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 449
         },
         {
@@ -1393,7 +1393,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 368
         },
         {
@@ -1402,7 +1402,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 817
         },
         {
@@ -1411,7 +1411,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 521
         },
         {
@@ -1420,7 +1420,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 462
         },
         {
@@ -1429,7 +1429,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 983
         },
         {
@@ -1438,7 +1438,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 574
         },
         {
@@ -1447,7 +1447,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 575
         },
         {
@@ -1456,7 +1456,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1149
         },
         {
@@ -1465,7 +1465,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 691
         },
         {
@@ -1474,7 +1474,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 681
         },
         {
@@ -1483,7 +1483,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1372
         },
         {
@@ -1492,7 +1492,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 660
         },
         {
@@ -1501,7 +1501,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 679
         },
         {
@@ -1510,7 +1510,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1339
         },
         {
@@ -1519,7 +1519,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 678
         },
         {
@@ -1528,7 +1528,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 767
         },
         {
@@ -1537,7 +1537,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1445
         },
         {
@@ -1546,7 +1546,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 559
         },
         {
@@ -1555,7 +1555,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 664
         },
         {
@@ -1564,7 +1564,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1223
         },
         {
@@ -1573,7 +1573,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 405
         },
         {
@@ -1582,7 +1582,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 623
         },
         {
@@ -1591,7 +1591,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1028
         },
         {
@@ -1600,7 +1600,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 346
         },
         {
@@ -1609,7 +1609,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 541
         },
         {
@@ -1618,7 +1618,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 887
         },
         {
@@ -1627,7 +1627,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 223
         },
         {
@@ -1636,7 +1636,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 355
         },
         {
@@ -1645,7 +1645,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 578
         },
         {
@@ -1654,7 +1654,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 75
         },
         {
@@ -1663,7 +1663,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 142
         },
         {
@@ -1672,7 +1672,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 217
         },
         {
@@ -1681,7 +1681,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 16
         },
         {
@@ -1690,7 +1690,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 50
         },
         {
@@ -1699,7 +1699,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 66
         },
         {
@@ -1708,7 +1708,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 4
         },
         {
@@ -1717,7 +1717,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 14
         },
         {
@@ -1726,7 +1726,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560300,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 18
         },
         {
@@ -1789,7 +1789,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 155
         },
         {
@@ -1798,7 +1798,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 168
         },
         {
@@ -1807,7 +1807,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 323
         },
         {
@@ -1816,7 +1816,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 243
         },
         {
@@ -1825,7 +1825,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 244
         },
         {
@@ -1834,7 +1834,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 487
         },
         {
@@ -1843,7 +1843,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 310
         },
         {
@@ -1852,7 +1852,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 271
         },
         {
@@ -1861,7 +1861,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 581
         },
         {
@@ -1870,7 +1870,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 296
         },
         {
@@ -1879,7 +1879,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 317
         },
         {
@@ -1888,7 +1888,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 613
         },
         {
@@ -1897,7 +1897,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 494
         },
         {
@@ -1906,7 +1906,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 430
         },
         {
@@ -1915,7 +1915,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 924
         },
         {
@@ -1924,7 +1924,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 426
         },
         {
@@ -1933,7 +1933,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 421
         },
         {
@@ -1942,7 +1942,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 847
         },
         {
@@ -1951,7 +1951,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 418
         },
         {
@@ -1960,7 +1960,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 389
         },
         {
@@ -1969,7 +1969,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 807
         },
         {
@@ -1978,7 +1978,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 400
         },
         {
@@ -1987,7 +1987,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 379
         },
         {
@@ -1996,7 +1996,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 779
         },
         {
@@ -2005,7 +2005,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 509
         },
         {
@@ -2014,7 +2014,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 526
         },
         {
@@ -2023,7 +2023,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1035
         },
         {
@@ -2032,7 +2032,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 652
         },
         {
@@ -2041,7 +2041,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 661
         },
         {
@@ -2050,7 +2050,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1313
         },
         {
@@ -2059,7 +2059,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 739
         },
         {
@@ -2068,7 +2068,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 702
         },
         {
@@ -2077,7 +2077,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1441
         },
         {
@@ -2086,7 +2086,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 629
         },
         {
@@ -2095,7 +2095,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 707
         },
         {
@@ -2104,7 +2104,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1336
         },
         {
@@ -2113,7 +2113,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 681
         },
         {
@@ -2122,7 +2122,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 751
         },
         {
@@ -2131,7 +2131,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1432
         },
         {
@@ -2140,7 +2140,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 533
         },
         {
@@ -2149,7 +2149,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 705
         },
         {
@@ -2158,7 +2158,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1238
         },
         {
@@ -2167,7 +2167,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 451
         },
         {
@@ -2176,7 +2176,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 830
         },
         {
@@ -2185,7 +2185,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1281
         },
         {
@@ -2194,7 +2194,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 431
         },
         {
@@ -2203,7 +2203,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 709
         },
         {
@@ -2212,7 +2212,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 1140
         },
         {
@@ -2221,7 +2221,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 297
         },
         {
@@ -2230,7 +2230,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 411
         },
         {
@@ -2239,7 +2239,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 708
         },
         {
@@ -2248,7 +2248,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 90
         },
         {
@@ -2257,7 +2257,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 149
         },
         {
@@ -2266,7 +2266,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 239
         },
         {
@@ -2275,7 +2275,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 15
         },
         {
@@ -2284,7 +2284,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 61
         },
         {
@@ -2293,7 +2293,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 76
         },
         {
@@ -2302,7 +2302,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 3
         },
         {
@@ -2311,7 +2311,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 15
         },
         {
@@ -2320,7 +2320,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130560800,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 18
         },
         {
@@ -2383,7 +2383,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 481
         },
         {
@@ -2392,7 +2392,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 443
         },
         {
@@ -2401,7 +2401,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 924
         },
         {
@@ -2410,7 +2410,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 878
         },
         {
@@ -2419,7 +2419,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 808
         },
         {
@@ -2428,7 +2428,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 1686
         },
         {
@@ -2437,7 +2437,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 1022
         },
         {
@@ -2446,7 +2446,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 969
         },
         {
@@ -2455,7 +2455,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 1991
         },
         {
@@ -2464,7 +2464,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 936
         },
         {
@@ -2473,7 +2473,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 926
         },
         {
@@ -2482,7 +2482,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 1862
         },
         {
@@ -2491,7 +2491,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 878
         },
         {
@@ -2500,7 +2500,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 887
         },
         {
@@ -2509,7 +2509,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1765
         },
         {
@@ -2518,7 +2518,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 705
         },
         {
@@ -2527,7 +2527,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 741
         },
         {
@@ -2536,7 +2536,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1446
         },
         {
@@ -2545,7 +2545,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 686
         },
         {
@@ -2554,7 +2554,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 752
         },
         {
@@ -2563,7 +2563,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1438
         },
         {
@@ -2572,7 +2572,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 926
         },
         {
@@ -2581,7 +2581,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1102
         },
         {
@@ -2590,7 +2590,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 2028
         },
         {
@@ -2599,7 +2599,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1358
         },
         {
@@ -2608,7 +2608,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1473
         },
         {
@@ -2617,7 +2617,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 2831
         },
         {
@@ -2626,7 +2626,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1574
         },
         {
@@ -2635,7 +2635,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1653
         },
         {
@@ -2644,7 +2644,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 3227
         },
         {
@@ -2653,7 +2653,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1536
         },
         {
@@ -2662,7 +2662,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1553
         },
         {
@@ -2671,7 +2671,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 3089
         },
         {
@@ -2680,7 +2680,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1067
         },
         {
@@ -2689,7 +2689,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1039
         },
         {
@@ -2698,7 +2698,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 2106
         },
         {
@@ -2707,7 +2707,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 907
         },
         {
@@ -2716,7 +2716,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1093
         },
         {
@@ -2725,7 +2725,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 2000
         },
         {
@@ -2734,7 +2734,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 701
         },
         {
@@ -2743,7 +2743,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 828
         },
         {
@@ -2752,7 +2752,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1529
         },
         {
@@ -2761,7 +2761,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 496
         },
         {
@@ -2770,7 +2770,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 642
         },
         {
@@ -2779,7 +2779,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1138
         },
         {
@@ -2788,7 +2788,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 387
         },
         {
@@ -2797,7 +2797,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 506
         },
         {
@@ -2806,7 +2806,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 893
         },
         {
@@ -2815,7 +2815,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 223
         },
         {
@@ -2824,7 +2824,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 398
         },
         {
@@ -2833,7 +2833,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 621
         },
         {
@@ -2842,7 +2842,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 86
         },
         {
@@ -2851,7 +2851,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 186
         },
         {
@@ -2860,7 +2860,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 272
         },
         {
@@ -2869,7 +2869,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 19
         },
         {
@@ -2878,7 +2878,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 72
         },
         {
@@ -2887,7 +2887,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 91
         },
         {
@@ -2896,7 +2896,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 3
         },
         {
@@ -2905,7 +2905,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 17
         },
         {
@@ -2914,7 +2914,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130557500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 20
         },
         {
@@ -2977,7 +2977,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 259
         },
         {
@@ -2986,7 +2986,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 223
         },
         {
@@ -2995,7 +2995,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 482
         },
         {
@@ -3004,7 +3004,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 349
         },
         {
@@ -3013,7 +3013,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 319
         },
         {
@@ -3022,7 +3022,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 668
         },
         {
@@ -3031,7 +3031,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 399
         },
         {
@@ -3040,7 +3040,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 381
         },
         {
@@ -3049,7 +3049,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 780
         },
         {
@@ -3058,7 +3058,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 544
         },
         {
@@ -3067,7 +3067,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 478
         },
         {
@@ -3076,7 +3076,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 1022
         },
         {
@@ -3085,7 +3085,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 740
         },
         {
@@ -3094,7 +3094,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 658
         },
         {
@@ -3103,7 +3103,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1398
         },
         {
@@ -3112,7 +3112,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 826
         },
         {
@@ -3121,7 +3121,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 749
         },
         {
@@ -3130,7 +3130,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1575
         },
         {
@@ -3139,7 +3139,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 711
         },
         {
@@ -3148,7 +3148,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 672
         },
         {
@@ -3157,7 +3157,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1383
         },
         {
@@ -3166,7 +3166,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 773
         },
         {
@@ -3175,7 +3175,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 645
         },
         {
@@ -3184,7 +3184,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1418
         },
         {
@@ -3193,7 +3193,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 864
         },
         {
@@ -3202,7 +3202,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 758
         },
         {
@@ -3211,7 +3211,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1622
         },
         {
@@ -3220,7 +3220,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 859
         },
         {
@@ -3229,7 +3229,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 896
         },
         {
@@ -3238,7 +3238,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1755
         },
         {
@@ -3247,7 +3247,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1105
         },
         {
@@ -3256,7 +3256,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1099
         },
         {
@@ -3265,7 +3265,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 2204
         },
         {
@@ -3274,7 +3274,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1049
         },
         {
@@ -3283,7 +3283,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 989
         },
         {
@@ -3292,7 +3292,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 2038
         },
         {
@@ -3301,7 +3301,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 983
         },
         {
@@ -3310,7 +3310,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1114
         },
         {
@@ -3319,7 +3319,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 2097
         },
         {
@@ -3328,7 +3328,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 803
         },
         {
@@ -3337,7 +3337,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 886
         },
         {
@@ -3346,7 +3346,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1689
         },
         {
@@ -3355,7 +3355,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 601
         },
         {
@@ -3364,7 +3364,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 661
         },
         {
@@ -3373,7 +3373,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1262
         },
         {
@@ -3382,7 +3382,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 419
         },
         {
@@ -3391,7 +3391,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 550
         },
         {
@@ -3400,7 +3400,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 969
         },
         {
@@ -3409,7 +3409,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 277
         },
         {
@@ -3418,7 +3418,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 402
         },
         {
@@ -3427,7 +3427,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 679
         },
         {
@@ -3436,7 +3436,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 103
         },
         {
@@ -3445,7 +3445,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 157
         },
         {
@@ -3454,7 +3454,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 260
         },
         {
@@ -3463,7 +3463,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 30
         },
         {
@@ -3472,7 +3472,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 74
         },
         {
@@ -3481,7 +3481,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 104
         },
         {
@@ -3490,7 +3490,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 5
         },
         {
@@ -3499,7 +3499,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 11
         },
         {
@@ -3508,7 +3508,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130553400,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 16
         },
         {
@@ -3571,7 +3571,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 314
         },
         {
@@ -3580,7 +3580,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 309
         },
         {
@@ -3589,7 +3589,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 623
         },
         {
@@ -3598,7 +3598,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 398
         },
         {
@@ -3607,7 +3607,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 386
         },
         {
@@ -3616,7 +3616,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 784
         },
         {
@@ -3625,7 +3625,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 439
         },
         {
@@ -3634,7 +3634,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 501
         },
         {
@@ -3643,7 +3643,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 940
         },
         {
@@ -3652,7 +3652,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 476
         },
         {
@@ -3661,7 +3661,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 508
         },
         {
@@ -3670,7 +3670,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 984
         },
         {
@@ -3679,7 +3679,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 865
         },
         {
@@ -3688,7 +3688,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 945
         },
         {
@@ -3697,7 +3697,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1810
         },
         {
@@ -3706,7 +3706,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1127
         },
         {
@@ -3715,7 +3715,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1118
         },
         {
@@ -3724,7 +3724,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 2245
         },
         {
@@ -3733,7 +3733,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 980
         },
         {
@@ -3742,7 +3742,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 986
         },
         {
@@ -3751,7 +3751,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1966
         },
         {
@@ -3760,7 +3760,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 972
         },
         {
@@ -3769,7 +3769,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 919
         },
         {
@@ -3778,7 +3778,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1891
         },
         {
@@ -3787,7 +3787,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1053
         },
         {
@@ -3796,7 +3796,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1004
         },
         {
@@ -3805,7 +3805,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 2057
         },
         {
@@ -3814,7 +3814,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1148
         },
         {
@@ -3823,7 +3823,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1131
         },
         {
@@ -3832,7 +3832,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 2279
         },
         {
@@ -3841,7 +3841,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1266
         },
         {
@@ -3850,7 +3850,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1350
         },
         {
@@ -3859,7 +3859,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 2616
         },
         {
@@ -3868,7 +3868,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1175
         },
         {
@@ -3877,7 +3877,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1278
         },
         {
@@ -3886,7 +3886,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 2453
         },
         {
@@ -3895,7 +3895,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1216
         },
         {
@@ -3904,7 +3904,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1377
         },
         {
@@ -3913,7 +3913,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 2593
         },
         {
@@ -3922,7 +3922,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 951
         },
         {
@@ -3931,7 +3931,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1111
         },
         {
@@ -3940,7 +3940,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 2062
         },
         {
@@ -3949,7 +3949,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 688
         },
         {
@@ -3958,7 +3958,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 878
         },
         {
@@ -3967,7 +3967,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1566
         },
         {
@@ -3976,7 +3976,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 521
         },
         {
@@ -3985,7 +3985,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 674
         },
         {
@@ -3994,7 +3994,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 1195
         },
         {
@@ -4003,7 +4003,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 347
         },
         {
@@ -4012,7 +4012,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 448
         },
         {
@@ -4021,7 +4021,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 795
         },
         {
@@ -4030,7 +4030,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 130
         },
         {
@@ -4039,7 +4039,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 204
         },
         {
@@ -4048,7 +4048,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 334
         },
         {
@@ -4057,7 +4057,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 32
         },
         {
@@ -4066,7 +4066,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 73
         },
         {
@@ -4075,7 +4075,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 105
         },
         {
@@ -4084,7 +4084,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 4
         },
         {
@@ -4093,7 +4093,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 22
         },
         {
@@ -4102,7 +4102,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130554500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 26
         },
         {
@@ -4165,7 +4165,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 174
         },
         {
@@ -4174,7 +4174,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 182
         },
         {
@@ -4183,7 +4183,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 356
         },
         {
@@ -4192,7 +4192,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 271
         },
         {
@@ -4201,7 +4201,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 274
         },
         {
@@ -4210,7 +4210,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 545
         },
         {
@@ -4219,7 +4219,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 296
         },
         {
@@ -4228,7 +4228,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 323
         },
         {
@@ -4237,7 +4237,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 619
         },
         {
@@ -4246,7 +4246,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 455
         },
         {
@@ -4255,7 +4255,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 406
         },
         {
@@ -4264,7 +4264,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 861
         },
         {
@@ -4273,7 +4273,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 688
         },
         {
@@ -4282,7 +4282,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 731
         },
         {
@@ -4291,7 +4291,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1419
         },
         {
@@ -4300,7 +4300,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 990
         },
         {
@@ -4309,7 +4309,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 965
         },
         {
@@ -4318,7 +4318,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1955
         },
         {
@@ -4327,7 +4327,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 855
         },
         {
@@ -4336,7 +4336,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 722
         },
         {
@@ -4345,7 +4345,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1577
         },
         {
@@ -4354,7 +4354,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 776
         },
         {
@@ -4363,7 +4363,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 672
         },
         {
@@ -4372,7 +4372,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1448
         },
         {
@@ -4381,7 +4381,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 889
         },
         {
@@ -4390,7 +4390,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 755
         },
         {
@@ -4399,7 +4399,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1644
         },
         {
@@ -4408,7 +4408,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 994
         },
         {
@@ -4417,7 +4417,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 911
         },
         {
@@ -4426,7 +4426,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1905
         },
         {
@@ -4435,7 +4435,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1218
         },
         {
@@ -4444,7 +4444,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1171
         },
         {
@@ -4453,7 +4453,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 2389
         },
         {
@@ -4462,7 +4462,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1219
         },
         {
@@ -4471,7 +4471,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1208
         },
         {
@@ -4480,7 +4480,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 2427
         },
         {
@@ -4489,7 +4489,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1309
         },
         {
@@ -4498,7 +4498,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1340
         },
         {
@@ -4507,7 +4507,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 2649
         },
         {
@@ -4516,7 +4516,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 979
         },
         {
@@ -4525,7 +4525,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1043
         },
         {
@@ -4534,7 +4534,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 2022
         },
         {
@@ -4543,7 +4543,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 725
         },
         {
@@ -4552,7 +4552,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 870
         },
         {
@@ -4561,7 +4561,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1595
         },
         {
@@ -4570,7 +4570,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 491
         },
         {
@@ -4579,7 +4579,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 708
         },
         {
@@ -4588,7 +4588,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 1199
         },
         {
@@ -4597,7 +4597,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 346
         },
         {
@@ -4606,7 +4606,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 504
         },
         {
@@ -4615,7 +4615,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 850
         },
         {
@@ -4624,7 +4624,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 135
         },
         {
@@ -4633,7 +4633,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 241
         },
         {
@@ -4642,7 +4642,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 376
         },
         {
@@ -4651,7 +4651,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 27
         },
         {
@@ -4660,7 +4660,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 67
         },
         {
@@ -4669,7 +4669,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 94
         },
         {
@@ -4678,7 +4678,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 6
         },
         {
@@ -4687,7 +4687,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 18
         },
         {
@@ -4696,7 +4696,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130555500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 24
         },
         {
@@ -4759,7 +4759,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 184
         },
         {
@@ -4768,7 +4768,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 165
         },
         {
@@ -4777,7 +4777,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 349
         },
         {
@@ -4786,7 +4786,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 249
         },
         {
@@ -4795,7 +4795,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 243
         },
         {
@@ -4804,7 +4804,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 492
         },
         {
@@ -4813,7 +4813,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 289
         },
         {
@@ -4822,7 +4822,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 299
         },
         {
@@ -4831,7 +4831,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 588
         },
         {
@@ -4840,7 +4840,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 336
         },
         {
@@ -4849,7 +4849,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 322
         },
         {
@@ -4858,7 +4858,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 658
         },
         {
@@ -4867,7 +4867,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 591
         },
         {
@@ -4876,7 +4876,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 681
         },
         {
@@ -4885,7 +4885,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1272
         },
         {
@@ -4894,7 +4894,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 880
         },
         {
@@ -4903,7 +4903,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 894
         },
         {
@@ -4912,7 +4912,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1774
         },
         {
@@ -4921,7 +4921,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 762
         },
         {
@@ -4930,7 +4930,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 655
         },
         {
@@ -4939,7 +4939,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1417
         },
         {
@@ -4948,7 +4948,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 673
         },
         {
@@ -4957,7 +4957,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 555
         },
         {
@@ -4966,7 +4966,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1228
         },
         {
@@ -4975,7 +4975,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 770
         },
         {
@@ -4984,7 +4984,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 658
         },
         {
@@ -4993,7 +4993,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1428
         },
         {
@@ -5002,7 +5002,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 756
         },
         {
@@ -5011,7 +5011,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 630
         },
         {
@@ -5020,7 +5020,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1386
         },
         {
@@ -5029,7 +5029,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 837
         },
         {
@@ -5038,7 +5038,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 914
         },
         {
@@ -5047,7 +5047,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1751
         },
         {
@@ -5056,7 +5056,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 876
         },
         {
@@ -5065,7 +5065,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 861
         },
         {
@@ -5074,7 +5074,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1737
         },
         {
@@ -5083,7 +5083,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 875
         },
         {
@@ -5092,7 +5092,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 988
         },
         {
@@ -5101,7 +5101,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1863
         },
         {
@@ -5110,7 +5110,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 686
         },
         {
@@ -5119,7 +5119,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 794
         },
         {
@@ -5128,7 +5128,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1480
         },
         {
@@ -5137,7 +5137,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 486
         },
         {
@@ -5146,7 +5146,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 620
         },
         {
@@ -5155,7 +5155,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1106
         },
         {
@@ -5164,7 +5164,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 399
         },
         {
@@ -5173,7 +5173,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 502
         },
         {
@@ -5182,7 +5182,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 901
         },
         {
@@ -5191,7 +5191,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 237
         },
         {
@@ -5200,7 +5200,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 350
         },
         {
@@ -5209,7 +5209,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 587
         },
         {
@@ -5218,7 +5218,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 119
         },
         {
@@ -5227,7 +5227,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 194
         },
         {
@@ -5236,7 +5236,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 313
         },
         {
@@ -5245,7 +5245,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 31
         },
         {
@@ -5254,7 +5254,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 51
         },
         {
@@ -5263,7 +5263,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 82
         },
         {
@@ -5272,7 +5272,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 5
         },
         {
@@ -5281,7 +5281,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 16
         },
         {
@@ -5290,7 +5290,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130561500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 21
         },
         {
@@ -5353,7 +5353,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 215
         },
         {
@@ -5362,7 +5362,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 193
         },
         {
@@ -5371,7 +5371,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 408
         },
         {
@@ -5380,7 +5380,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 272
         },
         {
@@ -5389,7 +5389,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 275
         },
         {
@@ -5398,7 +5398,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 547
         },
         {
@@ -5407,7 +5407,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 295
         },
         {
@@ -5416,7 +5416,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 270
         },
         {
@@ -5425,7 +5425,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 565
         },
         {
@@ -5434,7 +5434,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 386
         },
         {
@@ -5443,7 +5443,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 364
         },
         {
@@ -5452,7 +5452,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 750
         },
         {
@@ -5461,7 +5461,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 582
         },
         {
@@ -5470,7 +5470,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 738
         },
         {
@@ -5479,7 +5479,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1320
         },
         {
@@ -5488,7 +5488,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 778
         },
         {
@@ -5497,7 +5497,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 762
         },
         {
@@ -5506,7 +5506,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1540
         },
         {
@@ -5515,7 +5515,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 670
         },
         {
@@ -5524,7 +5524,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 630
         },
         {
@@ -5533,7 +5533,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1300
         },
         {
@@ -5542,7 +5542,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 639
         },
         {
@@ -5551,7 +5551,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 537
         },
         {
@@ -5560,7 +5560,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1176
         },
         {
@@ -5569,7 +5569,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 727
         },
         {
@@ -5578,7 +5578,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 641
         },
         {
@@ -5587,7 +5587,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1368
         },
         {
@@ -5596,7 +5596,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 761
         },
         {
@@ -5605,7 +5605,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 768
         },
         {
@@ -5614,7 +5614,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1529
         },
         {
@@ -5623,7 +5623,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 912
         },
         {
@@ -5632,7 +5632,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1011
         },
         {
@@ -5641,7 +5641,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1923
         },
         {
@@ -5650,7 +5650,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 848
         },
         {
@@ -5659,7 +5659,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 941
         },
         {
@@ -5668,7 +5668,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1789
         },
         {
@@ -5677,7 +5677,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 858
         },
         {
@@ -5686,7 +5686,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1069
         },
         {
@@ -5695,7 +5695,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1927
         },
         {
@@ -5704,7 +5704,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 724
         },
         {
@@ -5713,7 +5713,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 856
         },
         {
@@ -5722,7 +5722,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1580
         },
         {
@@ -5731,7 +5731,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 493
         },
         {
@@ -5740,7 +5740,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 691
         },
         {
@@ -5749,7 +5749,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1184
         },
         {
@@ -5758,7 +5758,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 409
         },
         {
@@ -5767,7 +5767,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 548
         },
         {
@@ -5776,7 +5776,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 957
         },
         {
@@ -5785,7 +5785,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 309
         },
         {
@@ -5794,7 +5794,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 469
         },
         {
@@ -5803,7 +5803,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 778
         },
         {
@@ -5812,7 +5812,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 133
         },
         {
@@ -5821,7 +5821,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 225
         },
         {
@@ -5830,7 +5830,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 358
         },
         {
@@ -5839,7 +5839,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 35
         },
         {
@@ -5848,7 +5848,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 86
         },
         {
@@ -5857,7 +5857,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 121
         },
         {
@@ -5866,7 +5866,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 7
         },
         {
@@ -5875,7 +5875,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 11
         },
         {
@@ -5884,7 +5884,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130562500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 18
         },
         {
@@ -5947,7 +5947,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 160
         },
         {
@@ -5956,7 +5956,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 154
         },
         {
@@ -5965,7 +5965,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 314
         },
         {
@@ -5974,7 +5974,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 205
         },
         {
@@ -5983,7 +5983,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 186
         },
         {
@@ -5992,7 +5992,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 391
         },
         {
@@ -6001,7 +6001,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 225
         },
         {
@@ -6010,7 +6010,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 205
         },
         {
@@ -6019,7 +6019,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 430
         },
         {
@@ -6028,7 +6028,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 334
         },
         {
@@ -6037,7 +6037,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 326
         },
         {
@@ -6046,7 +6046,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 660
         },
         {
@@ -6055,7 +6055,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 748
         },
         {
@@ -6064,7 +6064,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 986
         },
         {
@@ -6073,7 +6073,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1734
         },
         {
@@ -6082,7 +6082,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1236
         },
         {
@@ -6091,7 +6091,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1214
         },
         {
@@ -6100,7 +6100,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 2450
         },
         {
@@ -6109,7 +6109,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1000
         },
         {
@@ -6118,7 +6118,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 860
         },
         {
@@ -6127,7 +6127,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1860
         },
         {
@@ -6136,7 +6136,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 817
         },
         {
@@ -6145,7 +6145,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 658
         },
         {
@@ -6154,7 +6154,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1475
         },
         {
@@ -6163,7 +6163,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 815
         },
         {
@@ -6172,7 +6172,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 675
         },
         {
@@ -6181,7 +6181,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1490
         },
         {
@@ -6190,7 +6190,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 857
         },
         {
@@ -6199,7 +6199,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 746
         },
         {
@@ -6208,7 +6208,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1603
         },
         {
@@ -6217,7 +6217,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1059
         },
         {
@@ -6226,7 +6226,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1014
         },
         {
@@ -6235,7 +6235,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 2073
         },
         {
@@ -6244,7 +6244,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 956
         },
         {
@@ -6253,7 +6253,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 924
         },
         {
@@ -6262,7 +6262,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1880
         },
         {
@@ -6271,7 +6271,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 944
         },
         {
@@ -6280,7 +6280,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1018
         },
         {
@@ -6289,7 +6289,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1962
         },
         {
@@ -6298,7 +6298,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 713
         },
         {
@@ -6307,7 +6307,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 861
         },
         {
@@ -6316,7 +6316,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1574
         },
         {
@@ -6325,7 +6325,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 532
         },
         {
@@ -6334,7 +6334,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 640
         },
         {
@@ -6343,7 +6343,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1172
         },
         {
@@ -6352,7 +6352,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 436
         },
         {
@@ -6361,7 +6361,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 532
         },
         {
@@ -6370,7 +6370,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 968
         },
         {
@@ -6379,7 +6379,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 271
         },
         {
@@ -6388,7 +6388,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 365
         },
         {
@@ -6397,7 +6397,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 636
         },
         {
@@ -6406,7 +6406,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 122
         },
         {
@@ -6415,7 +6415,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 178
         },
         {
@@ -6424,7 +6424,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 300
         },
         {
@@ -6433,7 +6433,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 28
         },
         {
@@ -6442,7 +6442,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 54
         },
         {
@@ -6451,7 +6451,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 82
         },
         {
@@ -6460,7 +6460,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 5
         },
         {
@@ -6469,7 +6469,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 7
         },
         {
@@ -6478,7 +6478,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130563500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 12
         },
         {
@@ -6541,7 +6541,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 185
         },
         {
@@ -6550,7 +6550,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 192
         },
         {
@@ -6559,7 +6559,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 377
         },
         {
@@ -6568,7 +6568,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 296
         },
         {
@@ -6577,7 +6577,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 286
         },
         {
@@ -6586,7 +6586,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 582
         },
         {
@@ -6595,7 +6595,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 361
         },
         {
@@ -6604,7 +6604,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 305
         },
         {
@@ -6613,7 +6613,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 666
         },
         {
@@ -6622,7 +6622,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 337
         },
         {
@@ -6631,7 +6631,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 352
         },
         {
@@ -6640,7 +6640,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 689
         },
         {
@@ -6649,7 +6649,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 498
         },
         {
@@ -6658,7 +6658,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 637
         },
         {
@@ -6667,7 +6667,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1135
         },
         {
@@ -6676,7 +6676,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 666
         },
         {
@@ -6685,7 +6685,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 681
         },
         {
@@ -6694,7 +6694,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1347
         },
         {
@@ -6703,7 +6703,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 697
         },
         {
@@ -6712,7 +6712,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 602
         },
         {
@@ -6721,7 +6721,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1299
         },
         {
@@ -6730,7 +6730,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 670
         },
         {
@@ -6739,7 +6739,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 558
         },
         {
@@ -6748,7 +6748,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1228
         },
         {
@@ -6757,7 +6757,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 708
         },
         {
@@ -6766,7 +6766,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 655
         },
         {
@@ -6775,7 +6775,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1363
         },
         {
@@ -6784,7 +6784,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 740
         },
         {
@@ -6793,7 +6793,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 695
         },
         {
@@ -6802,7 +6802,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1435
         },
         {
@@ -6811,7 +6811,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 903
         },
         {
@@ -6820,7 +6820,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 966
         },
         {
@@ -6829,7 +6829,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1869
         },
         {
@@ -6838,7 +6838,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 817
         },
         {
@@ -6847,7 +6847,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 858
         },
         {
@@ -6856,7 +6856,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1675
         },
         {
@@ -6865,7 +6865,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 856
         },
         {
@@ -6874,7 +6874,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 974
         },
         {
@@ -6883,7 +6883,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1830
         },
         {
@@ -6892,7 +6892,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 712
         },
         {
@@ -6901,7 +6901,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 864
         },
         {
@@ -6910,7 +6910,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1576
         },
         {
@@ -6919,7 +6919,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 498
         },
         {
@@ -6928,7 +6928,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 620
         },
         {
@@ -6937,7 +6937,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1118
         },
         {
@@ -6946,7 +6946,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 404
         },
         {
@@ -6955,7 +6955,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 593
         },
         {
@@ -6964,7 +6964,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 997
         },
         {
@@ -6973,7 +6973,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 332
         },
         {
@@ -6982,7 +6982,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 421
         },
         {
@@ -6991,7 +6991,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 753
         },
         {
@@ -7000,7 +7000,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 123
         },
         {
@@ -7009,7 +7009,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 202
         },
         {
@@ -7018,7 +7018,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 325
         },
         {
@@ -7027,7 +7027,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 36
         },
         {
@@ -7036,7 +7036,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 80
         },
         {
@@ -7045,7 +7045,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 116
         },
         {
@@ -7054,7 +7054,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 4
         },
         {
@@ -7063,7 +7063,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 22
         },
         {
@@ -7072,7 +7072,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130564500,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 26
         },
         {
@@ -7135,7 +7135,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 280
         },
         {
@@ -7144,7 +7144,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 254
         },
         {
@@ -7153,7 +7153,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "0 - 4세",
+            "agegrd_nm": "0-4세",
             "popl_cnt": 534
         },
         {
@@ -7162,7 +7162,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 435
         },
         {
@@ -7171,7 +7171,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 405
         },
         {
@@ -7180,7 +7180,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "5 - 9세",
+            "agegrd_nm": "5-9세",
             "popl_cnt": 840
         },
         {
@@ -7189,7 +7189,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 511
         },
         {
@@ -7198,7 +7198,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 481
         },
         {
@@ -7207,7 +7207,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "10 - 14세",
+            "agegrd_nm": "10-14세",
             "popl_cnt": 992
         },
         {
@@ -7216,7 +7216,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 493
         },
         {
@@ -7225,7 +7225,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 523
         },
         {
@@ -7234,7 +7234,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "15 - 19세",
+            "agegrd_nm": "15-19세",
             "popl_cnt": 1016
         },
         {
@@ -7243,7 +7243,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 781
         },
         {
@@ -7252,7 +7252,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 852
         },
         {
@@ -7261,7 +7261,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "20 - 24세",
+            "agegrd_nm": "20-24세",
             "popl_cnt": 1633
         },
         {
@@ -7270,7 +7270,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1088
         },
         {
@@ -7279,7 +7279,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 1067
         },
         {
@@ -7288,7 +7288,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "25 - 29세",
+            "agegrd_nm": "25-29세",
             "popl_cnt": 2155
         },
         {
@@ -7297,7 +7297,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 924
         },
         {
@@ -7306,7 +7306,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 869
         },
         {
@@ -7315,7 +7315,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "30 - 34세",
+            "agegrd_nm": "30-34세",
             "popl_cnt": 1793
         },
         {
@@ -7324,7 +7324,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 978
         },
         {
@@ -7333,7 +7333,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 859
         },
         {
@@ -7342,7 +7342,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "35 - 39세",
+            "agegrd_nm": "35-39세",
             "popl_cnt": 1837
         },
         {
@@ -7351,7 +7351,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 1061
         },
         {
@@ -7360,7 +7360,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 960
         },
         {
@@ -7369,7 +7369,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "40 - 44세",
+            "agegrd_nm": "40-44세",
             "popl_cnt": 2021
         },
         {
@@ -7378,7 +7378,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1061
         },
         {
@@ -7387,7 +7387,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 1063
         },
         {
@@ -7396,7 +7396,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "45 - 49세",
+            "agegrd_nm": "45-49세",
             "popl_cnt": 2124
         },
         {
@@ -7405,7 +7405,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1297
         },
         {
@@ -7414,7 +7414,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 1365
         },
         {
@@ -7423,7 +7423,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "50 - 54세",
+            "agegrd_nm": "50-54세",
             "popl_cnt": 2662
         },
         {
@@ -7432,7 +7432,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1190
         },
         {
@@ -7441,7 +7441,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 1350
         },
         {
@@ -7450,7 +7450,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "55 - 59세",
+            "agegrd_nm": "55-59세",
             "popl_cnt": 2540
         },
         {
@@ -7459,7 +7459,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1333
         },
         {
@@ -7468,7 +7468,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 1497
         },
         {
@@ -7477,7 +7477,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "60 - 64세",
+            "agegrd_nm": "60-64세",
             "popl_cnt": 2830
         },
         {
@@ -7486,7 +7486,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1047
         },
         {
@@ -7495,7 +7495,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 1252
         },
         {
@@ -7504,7 +7504,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "65 - 69세",
+            "agegrd_nm": "65-69세",
             "popl_cnt": 2299
         },
         {
@@ -7513,7 +7513,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 791
         },
         {
@@ -7522,7 +7522,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 973
         },
         {
@@ -7531,7 +7531,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "70 - 74세",
+            "agegrd_nm": "70-74세",
             "popl_cnt": 1764
         },
         {
@@ -7540,7 +7540,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 620
         },
         {
@@ -7549,7 +7549,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 746
         },
         {
@@ -7558,7 +7558,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "75 - 79세",
+            "agegrd_nm": "75-79세",
             "popl_cnt": 1366
         },
         {
@@ -7567,7 +7567,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 397
         },
         {
@@ -7576,7 +7576,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 622
         },
         {
@@ -7585,7 +7585,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "80 - 84세",
+            "agegrd_nm": "80-84세",
             "popl_cnt": 1019
         },
         {
@@ -7594,7 +7594,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 180
         },
         {
@@ -7603,7 +7603,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 256
         },
         {
@@ -7612,7 +7612,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "85 - 89세",
+            "agegrd_nm": "85-89세",
             "popl_cnt": 436
         },
         {
@@ -7621,7 +7621,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 28
         },
         {
@@ -7630,7 +7630,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 115
         },
         {
@@ -7639,7 +7639,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "90 - 94세",
+            "agegrd_nm": "90-94세",
             "popl_cnt": 143
         },
         {
@@ -7648,7 +7648,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "남자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 10
         },
         {
@@ -7657,7 +7657,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "여자인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 31
         },
         {
@@ -7666,7 +7666,7 @@
             "adm_cd": 11090,
             "admdong_cd": 1130566000,
             "sex_nm": "총인구수",
-            "agegrd_nm": "95 - 99세",
+            "agegrd_nm": "95-99세",
             "popl_cnt": 41
         },
         {
