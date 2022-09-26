@@ -1,0 +1,1322 @@
+[
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.0032,
+  "dth_pb_f": 0.00298,
+  "lfexptcy_ycnt_m": 76.87,
+  "lfexptcy_ycnt_f": 82.76,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00115,
+  "dth_pb_f": 0.0009,
+  "lfexptcy_ycnt_m": 76.11,
+  "lfexptcy_ycnt_f": 82.01,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00079,
+  "dth_pb_f": 0.00056,
+  "lfexptcy_ycnt_m": 72.2,
+  "lfexptcy_ycnt_f": 78.08,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.00059,
+  "dth_pb_f": 0.00049,
+  "lfexptcy_ycnt_m": 67.25,
+  "lfexptcy_ycnt_f": 73.13,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.00162,
+  "dth_pb_f": 0.00121,
+  "lfexptcy_ycnt_m": 62.29,
+  "lfexptcy_ycnt_f": 68.16,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.0025,
+  "dth_pb_f": 0.00166,
+  "lfexptcy_ycnt_m": 57.39,
+  "lfexptcy_ycnt_f": 63.24,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.00285,
+  "dth_pb_f": 0.00191,
+  "lfexptcy_ycnt_m": 52.53,
+  "lfexptcy_ycnt_f": 58.34,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.00399,
+  "dth_pb_f": 0.00253,
+  "lfexptcy_ycnt_m": 47.67,
+  "lfexptcy_ycnt_f": 53.45,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.00607,
+  "dth_pb_f": 0.00338,
+  "lfexptcy_ycnt_m": 42.85,
+  "lfexptcy_ycnt_f": 48.58,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.01081,
+  "dth_pb_f": 0.00395,
+  "lfexptcy_ycnt_m": 38.09,
+  "lfexptcy_ycnt_f": 43.73,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.01754,
+  "dth_pb_f": 0.00615,
+  "lfexptcy_ycnt_m": 33.48,
+  "lfexptcy_ycnt_f": 38.89,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.02503,
+  "dth_pb_f": 0.00944,
+  "lfexptcy_ycnt_m": 29.03,
+  "lfexptcy_ycnt_f": 34.12,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.03808,
+  "dth_pb_f": 0.01404,
+  "lfexptcy_ycnt_m": 24.71,
+  "lfexptcy_ycnt_f": 29.42,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.05838,
+  "dth_pb_f": 0.02299,
+  "lfexptcy_ycnt_m": 20.58,
+  "lfexptcy_ycnt_f": 24.8,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.09431,
+  "dth_pb_f": 0.03992,
+  "lfexptcy_ycnt_m": 16.69,
+  "lfexptcy_ycnt_f": 20.32,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.15459,
+  "dth_pb_f": 0.07836,
+  "lfexptcy_ycnt_m": 13.15,
+  "lfexptcy_ycnt_f": 16.05,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.24627,
+  "dth_pb_f": 0.15181,
+  "lfexptcy_ycnt_m": 10.07,
+  "lfexptcy_ycnt_f": 12.18,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.37221,
+  "dth_pb_f": 0.28244,
+  "lfexptcy_ycnt_m": 7.52,
+  "lfexptcy_ycnt_f": 8.88,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.53219,
+  "dth_pb_f": 0.44997,
+  "lfexptcy_ycnt_m": 5.47,
+  "lfexptcy_ycnt_f": 6.34,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.68815,
+  "dth_pb_f": 0.62904,
+  "lfexptcy_ycnt_m": 3.99,
+  "lfexptcy_ycnt_f": 4.49,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.81804,
+  "dth_pb_f": 0.78459,
+  "lfexptcy_ycnt_m": 2.94,
+  "lfexptcy_ycnt_f": 3.21,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2005,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.21,
+  "lfexptcy_ycnt_f": 2.35,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.00307,
+  "dth_pb_f": 0.00303,
+  "lfexptcy_ycnt_m": 78.2,
+  "lfexptcy_ycnt_f": 84.09,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00102,
+  "dth_pb_f": 0.00091,
+  "lfexptcy_ycnt_m": 77.44,
+  "lfexptcy_ycnt_f": 83.35,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00078,
+  "dth_pb_f": 0.00062,
+  "lfexptcy_ycnt_m": 73.51,
+  "lfexptcy_ycnt_f": 79.42,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.00057,
+  "dth_pb_f": 0.00045,
+  "lfexptcy_ycnt_m": 68.57,
+  "lfexptcy_ycnt_f": 74.47,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.00151,
+  "dth_pb_f": 0.0009,
+  "lfexptcy_ycnt_m": 63.61,
+  "lfexptcy_ycnt_f": 69.5,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.00235,
+  "dth_pb_f": 0.00169,
+  "lfexptcy_ycnt_m": 58.7,
+  "lfexptcy_ycnt_f": 64.56,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.00286,
+  "dth_pb_f": 0.00214,
+  "lfexptcy_ycnt_m": 53.83,
+  "lfexptcy_ycnt_f": 59.67,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.00321,
+  "dth_pb_f": 0.00251,
+  "lfexptcy_ycnt_m": 48.98,
+  "lfexptcy_ycnt_f": 54.79,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.0055,
+  "dth_pb_f": 0.00306,
+  "lfexptcy_ycnt_m": 44.13,
+  "lfexptcy_ycnt_f": 49.92,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.00938,
+  "dth_pb_f": 0.00398,
+  "lfexptcy_ycnt_m": 39.35,
+  "lfexptcy_ycnt_f": 45.07,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.0153,
+  "dth_pb_f": 0.00574,
+  "lfexptcy_ycnt_m": 34.7,
+  "lfexptcy_ycnt_f": 40.24,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.0222,
+  "dth_pb_f": 0.00808,
+  "lfexptcy_ycnt_m": 30.2,
+  "lfexptcy_ycnt_f": 35.45,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.03339,
+  "dth_pb_f": 0.01159,
+  "lfexptcy_ycnt_m": 25.83,
+  "lfexptcy_ycnt_f": 30.72,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.04778,
+  "dth_pb_f": 0.01822,
+  "lfexptcy_ycnt_m": 21.63,
+  "lfexptcy_ycnt_f": 26.05,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.07979,
+  "dth_pb_f": 0.03149,
+  "lfexptcy_ycnt_m": 17.58,
+  "lfexptcy_ycnt_f": 21.48,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.13102,
+  "dth_pb_f": 0.06369,
+  "lfexptcy_ycnt_m": 13.87,
+  "lfexptcy_ycnt_f": 17.09,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.21971,
+  "dth_pb_f": 0.12716,
+  "lfexptcy_ycnt_m": 10.56,
+  "lfexptcy_ycnt_f": 13.07,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.35456,
+  "dth_pb_f": 0.24297,
+  "lfexptcy_ycnt_m": 7.79,
+  "lfexptcy_ycnt_f": 9.57,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.51331,
+  "dth_pb_f": 0.4114,
+  "lfexptcy_ycnt_m": 5.67,
+  "lfexptcy_ycnt_f": 6.79,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.67201,
+  "dth_pb_f": 0.59676,
+  "lfexptcy_ycnt_m": 4.13,
+  "lfexptcy_ycnt_f": 4.77,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.80761,
+  "dth_pb_f": 0.76414,
+  "lfexptcy_ycnt_m": 3.02,
+  "lfexptcy_ycnt_f": 3.37,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2008,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.25,
+  "lfexptcy_ycnt_f": 2.44,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.00254,
+  "dth_pb_f": 0.00233,
+  "lfexptcy_ycnt_m": 78.93,
+  "lfexptcy_ycnt_f": 85.13,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00089,
+  "dth_pb_f": 0.00061,
+  "lfexptcy_ycnt_m": 78.13,
+  "lfexptcy_ycnt_f": 84.33,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00042,
+  "dth_pb_f": 0.00028,
+  "lfexptcy_ycnt_m": 74.2,
+  "lfexptcy_ycnt_f": 80.38,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.0007,
+  "dth_pb_f": 0.00029,
+  "lfexptcy_ycnt_m": 69.23,
+  "lfexptcy_ycnt_f": 75.4,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.0016,
+  "dth_pb_f": 0.00074,
+  "lfexptcy_ycnt_m": 64.28,
+  "lfexptcy_ycnt_f": 70.42,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.00225,
+  "dth_pb_f": 0.00132,
+  "lfexptcy_ycnt_m": 59.38,
+  "lfexptcy_ycnt_f": 65.47,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.0032,
+  "dth_pb_f": 0.00167,
+  "lfexptcy_ycnt_m": 54.5,
+  "lfexptcy_ycnt_f": 60.55,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.00347,
+  "dth_pb_f": 0.00236,
+  "lfexptcy_ycnt_m": 49.67,
+  "lfexptcy_ycnt_f": 55.65,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.00507,
+  "dth_pb_f": 0.00264,
+  "lfexptcy_ycnt_m": 44.83,
+  "lfexptcy_ycnt_f": 50.77,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.0084,
+  "dth_pb_f": 0.00371,
+  "lfexptcy_ycnt_m": 40.05,
+  "lfexptcy_ycnt_f": 45.9,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.01451,
+  "dth_pb_f": 0.00513,
+  "lfexptcy_ycnt_m": 35.37,
+  "lfexptcy_ycnt_f": 41.06,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.02128,
+  "dth_pb_f": 0.00737,
+  "lfexptcy_ycnt_m": 30.85,
+  "lfexptcy_ycnt_f": 36.26,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.03059,
+  "dth_pb_f": 0.01058,
+  "lfexptcy_ycnt_m": 26.46,
+  "lfexptcy_ycnt_f": 31.51,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.04439,
+  "dth_pb_f": 0.01713,
+  "lfexptcy_ycnt_m": 22.21,
+  "lfexptcy_ycnt_f": 26.82,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.0704,
+  "dth_pb_f": 0.02795,
+  "lfexptcy_ycnt_m": 18.12,
+  "lfexptcy_ycnt_f": 22.24,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.11912,
+  "dth_pb_f": 0.05308,
+  "lfexptcy_ycnt_m": 14.29,
+  "lfexptcy_ycnt_f": 17.8,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.20202,
+  "dth_pb_f": 0.10956,
+  "lfexptcy_ycnt_m": 10.86,
+  "lfexptcy_ycnt_f": 13.65,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.33392,
+  "dth_pb_f": 0.22192,
+  "lfexptcy_ycnt_m": 7.94,
+  "lfexptcy_ycnt_f": 9.99,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.51463,
+  "dth_pb_f": 0.38656,
+  "lfexptcy_ycnt_m": 5.62,
+  "lfexptcy_ycnt_f": 7.07,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.6838,
+  "dth_pb_f": 0.58026,
+  "lfexptcy_ycnt_m": 4.01,
+  "lfexptcy_ycnt_f": 4.91,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.82507,
+  "dth_pb_f": 0.75794,
+  "lfexptcy_ycnt_m": 2.88,
+  "lfexptcy_ycnt_f": 3.42,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2011,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.11,
+  "lfexptcy_ycnt_f": 2.44,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.00303,
+  "dth_pb_f": 0.0024,
+  "lfexptcy_ycnt_m": 80.12,
+  "lfexptcy_ycnt_f": 85.81,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00089,
+  "dth_pb_f": 0.00061,
+  "lfexptcy_ycnt_m": 79.37,
+  "lfexptcy_ycnt_f": 85.01,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00063,
+  "dth_pb_f": 0.00046,
+  "lfexptcy_ycnt_m": 75.44,
+  "lfexptcy_ycnt_f": 81.06,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.00044,
+  "dth_pb_f": 0.00038,
+  "lfexptcy_ycnt_m": 70.48,
+  "lfexptcy_ycnt_f": 76.1,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.00121,
+  "dth_pb_f": 0.00074,
+  "lfexptcy_ycnt_m": 65.51,
+  "lfexptcy_ycnt_f": 71.13,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.00179,
+  "dth_pb_f": 0.00106,
+  "lfexptcy_ycnt_m": 60.59,
+  "lfexptcy_ycnt_f": 66.18,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.00215,
+  "dth_pb_f": 0.00139,
+  "lfexptcy_ycnt_m": 55.69,
+  "lfexptcy_ycnt_f": 61.25,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.00307,
+  "dth_pb_f": 0.00192,
+  "lfexptcy_ycnt_m": 50.81,
+  "lfexptcy_ycnt_f": 56.33,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.00456,
+  "dth_pb_f": 0.00269,
+  "lfexptcy_ycnt_m": 45.96,
+  "lfexptcy_ycnt_f": 51.43,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.00736,
+  "dth_pb_f": 0.00348,
+  "lfexptcy_ycnt_m": 41.15,
+  "lfexptcy_ycnt_f": 46.56,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.01224,
+  "dth_pb_f": 0.00537,
+  "lfexptcy_ycnt_m": 36.44,
+  "lfexptcy_ycnt_f": 41.72,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.02021,
+  "dth_pb_f": 0.00744,
+  "lfexptcy_ycnt_m": 31.86,
+  "lfexptcy_ycnt_f": 36.93,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.02812,
+  "dth_pb_f": 0.00999,
+  "lfexptcy_ycnt_m": 27.46,
+  "lfexptcy_ycnt_f": 32.19,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.04024,
+  "dth_pb_f": 0.01395,
+  "lfexptcy_ycnt_m": 23.18,
+  "lfexptcy_ycnt_f": 27.48,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.05985,
+  "dth_pb_f": 0.02399,
+  "lfexptcy_ycnt_m": 19.04,
+  "lfexptcy_ycnt_f": 22.84,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.10457,
+  "dth_pb_f": 0.04661,
+  "lfexptcy_ycnt_m": 15.08,
+  "lfexptcy_ycnt_f": 18.33,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.18667,
+  "dth_pb_f": 0.09752,
+  "lfexptcy_ycnt_m": 11.53,
+  "lfexptcy_ycnt_f": 14.09,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.31213,
+  "dth_pb_f": 0.20473,
+  "lfexptcy_ycnt_m": 8.56,
+  "lfexptcy_ycnt_f": 10.31,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.45873,
+  "dth_pb_f": 0.37161,
+  "lfexptcy_ycnt_m": 6.29,
+  "lfexptcy_ycnt_f": 7.26,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.62545,
+  "dth_pb_f": 0.56546,
+  "lfexptcy_ycnt_m": 4.53,
+  "lfexptcy_ycnt_f": 5.04,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.7754,
+  "dth_pb_f": 0.7487,
+  "lfexptcy_ycnt_m": 3.28,
+  "lfexptcy_ycnt_f": 3.48,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2014,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.4,
+  "lfexptcy_ycnt_f": 2.46,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.00256,
+  "dth_pb_f": 0.00172,
+  "lfexptcy_ycnt_m": 81.24,
+  "lfexptcy_ycnt_f": 86.98,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00064,
+  "dth_pb_f": 0.00038,
+  "lfexptcy_ycnt_m": 80.45,
+  "lfexptcy_ycnt_f": 86.13,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00048,
+  "dth_pb_f": 0.00029,
+  "lfexptcy_ycnt_m": 76.5,
+  "lfexptcy_ycnt_f": 82.17,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.00028,
+  "dth_pb_f": 0.00032,
+  "lfexptcy_ycnt_m": 71.53,
+  "lfexptcy_ycnt_f": 77.19,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.00111,
+  "dth_pb_f": 0.00067,
+  "lfexptcy_ycnt_m": 66.55,
+  "lfexptcy_ycnt_f": 72.21,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.00173,
+  "dth_pb_f": 0.00088,
+  "lfexptcy_ycnt_m": 61.62,
+  "lfexptcy_ycnt_f": 67.26,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.00208,
+  "dth_pb_f": 0.0009,
+  "lfexptcy_ycnt_m": 56.72,
+  "lfexptcy_ycnt_f": 62.32,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.00258,
+  "dth_pb_f": 0.00169,
+  "lfexptcy_ycnt_m": 51.84,
+  "lfexptcy_ycnt_f": 57.37,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.00393,
+  "dth_pb_f": 0.00225,
+  "lfexptcy_ycnt_m": 46.96,
+  "lfexptcy_ycnt_f": 52.46,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.00665,
+  "dth_pb_f": 0.00296,
+  "lfexptcy_ycnt_m": 42.14,
+  "lfexptcy_ycnt_f": 47.57,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.01062,
+  "dth_pb_f": 0.00459,
+  "lfexptcy_ycnt_m": 37.4,
+  "lfexptcy_ycnt_f": 42.71,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.0172,
+  "dth_pb_f": 0.00669,
+  "lfexptcy_ycnt_m": 32.78,
+  "lfexptcy_ycnt_f": 37.89,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.02684,
+  "dth_pb_f": 0.00805,
+  "lfexptcy_ycnt_m": 28.3,
+  "lfexptcy_ycnt_f": 33.13,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.03633,
+  "dth_pb_f": 0.01254,
+  "lfexptcy_ycnt_m": 24.01,
+  "lfexptcy_ycnt_f": 28.38,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.05396,
+  "dth_pb_f": 0.02054,
+  "lfexptcy_ycnt_m": 19.82,
+  "lfexptcy_ycnt_f": 23.7,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.09077,
+  "dth_pb_f": 0.03851,
+  "lfexptcy_ycnt_m": 15.8,
+  "lfexptcy_ycnt_f": 19.14,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.16489,
+  "dth_pb_f": 0.08201,
+  "lfexptcy_ycnt_m": 12.1,
+  "lfexptcy_ycnt_f": 14.8,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.28275,
+  "dth_pb_f": 0.18102,
+  "lfexptcy_ycnt_m": 8.97,
+  "lfexptcy_ycnt_f": 10.87,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.44057,
+  "dth_pb_f": 0.3393,
+  "lfexptcy_ycnt_m": 6.47,
+  "lfexptcy_ycnt_f": 7.67,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.61505,
+  "dth_pb_f": 0.53978,
+  "lfexptcy_ycnt_m": 4.62,
+  "lfexptcy_ycnt_f": 5.27,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.77243,
+  "dth_pb_f": 0.73273,
+  "lfexptcy_ycnt_m": 3.3,
+  "lfexptcy_ycnt_f": 3.61,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2017,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.4,
+  "lfexptcy_ycnt_f": 2.54,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 0,
+  "dth_pb_m": 0.00209,
+  "dth_pb_f": 0.00144,
+  "lfexptcy_ycnt_m": 82,
+  "lfexptcy_ycnt_f": 87.61,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 1,
+  "dth_pb_m": 0.00047,
+  "dth_pb_f": 0.0004,
+  "lfexptcy_ycnt_m": 81.17,
+  "lfexptcy_ycnt_f": 86.74,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 5,
+  "dth_pb_m": 0.00019,
+  "dth_pb_f": 0.00027,
+  "lfexptcy_ycnt_m": 77.2,
+  "lfexptcy_ycnt_f": 82.77,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 10,
+  "dth_pb_m": 0.00049,
+  "dth_pb_f": 0.00024,
+  "lfexptcy_ycnt_m": 72.22,
+  "lfexptcy_ycnt_f": 77.8,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 15,
+  "dth_pb_m": 0.00091,
+  "dth_pb_f": 0.00098,
+  "lfexptcy_ycnt_m": 67.25,
+  "lfexptcy_ycnt_f": 72.81,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 20,
+  "dth_pb_m": 0.00161,
+  "dth_pb_f": 0.00144,
+  "lfexptcy_ycnt_m": 62.31,
+  "lfexptcy_ycnt_f": 67.88,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 25,
+  "dth_pb_m": 0.00209,
+  "dth_pb_f": 0.0015,
+  "lfexptcy_ycnt_m": 57.41,
+  "lfexptcy_ycnt_f": 62.98,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 30,
+  "dth_pb_m": 0.0028,
+  "dth_pb_f": 0.0018,
+  "lfexptcy_ycnt_m": 52.52,
+  "lfexptcy_ycnt_f": 58.07,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 35,
+  "dth_pb_m": 0.00394,
+  "dth_pb_f": 0.00281,
+  "lfexptcy_ycnt_m": 47.66,
+  "lfexptcy_ycnt_f": 53.17,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 40,
+  "dth_pb_m": 0.00517,
+  "dth_pb_f": 0.00335,
+  "lfexptcy_ycnt_m": 42.84,
+  "lfexptcy_ycnt_f": 48.31,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 45,
+  "dth_pb_m": 0.00895,
+  "dth_pb_f": 0.00504,
+  "lfexptcy_ycnt_m": 38.05,
+  "lfexptcy_ycnt_f": 43.46,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 50,
+  "dth_pb_m": 0.01592,
+  "dth_pb_f": 0.00629,
+  "lfexptcy_ycnt_m": 33.37,
+  "lfexptcy_ycnt_f": 38.67,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 55,
+  "dth_pb_m": 0.02441,
+  "dth_pb_f": 0.00881,
+  "lfexptcy_ycnt_m": 28.86,
+  "lfexptcy_ycnt_f": 33.9,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 60,
+  "dth_pb_m": 0.03543,
+  "dth_pb_f": 0.01164,
+  "lfexptcy_ycnt_m": 24.52,
+  "lfexptcy_ycnt_f": 29.18,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 65,
+  "dth_pb_m": 0.05245,
+  "dth_pb_f": 0.01947,
+  "lfexptcy_ycnt_m": 20.32,
+  "lfexptcy_ycnt_f": 24.49,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 70,
+  "dth_pb_m": 0.08039,
+  "dth_pb_f": 0.03369,
+  "lfexptcy_ycnt_m": 16.3,
+  "lfexptcy_ycnt_f": 19.92,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 75,
+  "dth_pb_m": 0.14936,
+  "dth_pb_f": 0.0691,
+  "lfexptcy_ycnt_m": 12.49,
+  "lfexptcy_ycnt_f": 15.52,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 80,
+  "dth_pb_m": 0.2653,
+  "dth_pb_f": 0.16091,
+  "lfexptcy_ycnt_m": 9.21,
+  "lfexptcy_ycnt_f": 11.47,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 85,
+  "dth_pb_m": 0.428,
+  "dth_pb_f": 0.31,
+  "lfexptcy_ycnt_m": 6.59,
+  "lfexptcy_ycnt_f": 8.14,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 90,
+  "dth_pb_m": 0.61026,
+  "dth_pb_f": 0.50637,
+  "lfexptcy_ycnt_m": 4.65,
+  "lfexptcy_ycnt_f": 5.61,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 95,
+  "dth_pb_m": 0.77476,
+  "dth_pb_f": 0.70434,
+  "lfexptcy_ycnt_m": 3.28,
+  "lfexptcy_ycnt_f": 3.84,
+  "admdong_cd": 1100000000
+ },
+ {
+  "stats_yr": 2020,
+  "sigungu_nm": "서울특별시",
+  "age": 100,
+  "dth_pb_m": 1,
+  "dth_pb_f": 1,
+  "lfexptcy_ycnt_m": 2.36,
+  "lfexptcy_ycnt_f": 2.69,
+  "admdong_cd": 1100000000
+ }
+]

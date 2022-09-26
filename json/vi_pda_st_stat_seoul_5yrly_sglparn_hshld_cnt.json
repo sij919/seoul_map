@@ -1,0 +1,66 @@
+[
+ {
+  "stats_yr": 1985,
+  "hshld_cnt": 206993,
+  "hshld_cnt_s": 71399,
+  "hshld_cnt_b": 97234,
+  "hshld_cnt_d": 16353,
+  "hshld_cnt_u": 22007
+ },
+ {
+  "stats_yr": 1990,
+  "hshld_cnt": 237343,
+  "hshld_cnt_s": 75136,
+  "hshld_cnt_b": 112715,
+  "hshld_cnt_d": 27785,
+  "hshld_cnt_u": 21707
+ },
+ {
+  "stats_yr": 1995,
+  "hshld_cnt": 241392,
+  "hshld_cnt_s": 64270,
+  "hshld_cnt_b": 116888,
+  "hshld_cnt_d": 37285,
+  "hshld_cnt_u": 22949
+ },
+ {
+  "stats_yr": 2000,
+  "hshld_cnt": 270199,
+  "hshld_cnt_s": 63721,
+  "hshld_cnt_b": 111684,
+  "hshld_cnt_d": 65259,
+  "hshld_cnt_u": 29535
+ },
+ {
+  "stats_yr": 2005,
+  "hshld_cnt": 317607,
+  "hshld_cnt_s": 74839,
+  "hshld_cnt_b": 114019,
+  "hshld_cnt_d": 94660,
+  "hshld_cnt_u": 34089
+ },
+ {
+  "stats_yr": 2010,
+  "hshld_cnt": 351848,
+  "hshld_cnt_s": 87022,
+  "hshld_cnt_b": 104961,
+  "hshld_cnt_d": 114253,
+  "hshld_cnt_u": 45612
+ },
+ {
+  "stats_yr": 2015,
+  "hshld_cnt": 390913,
+  "hshld_cnt_s": 86271,
+  "hshld_cnt_b": 109184,
+  "hshld_cnt_d": 143479,
+  "hshld_cnt_u": 51979
+ },
+ {
+  "stats_yr": 2020,
+  "hshld_cnt": 391968,
+  "hshld_cnt_s": 100562,
+  "hshld_cnt_b": 88839,
+  "hshld_cnt_d": 128503,
+  "hshld_cnt_u": 74064
+ }
+]
